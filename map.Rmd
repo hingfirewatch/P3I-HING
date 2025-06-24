@@ -9,7 +9,11 @@ output: html_document
 #install.packages("leaflet")
 
 library(leaflet)
-library(sp)
+library(sf)
+library(geojsonio)
+library(dplyr)
+library(jsonlite)
+
 
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -20,13 +24,36 @@ hawaii_coords <- c(lat = 21.3069, lng = -157.85830)
 
 leaflet() %>% 
   addTiles() %>% 
-  setView(lng = hawaii_coords["lng"], lat = hawaii_coords["lat"], zoom = 7) %>% 
-  addMarkers(
-    lng = hawaii_coords["lng"],
-    lat = hawaii_coords["lat"],
-    popup = "Honolulu, HI"
+  setView(lng = hawaii_coords["lng"], lat = hawaii_coords["lat"], zoom = 7)
+
+
+```
+
+```{r}
+# Load the JSON file
+fire_data <- fromJSON("~/Desktop/P3I-HING/data/FIRMS/VIIRS/DL_FIRE_J1V-C2_628468/fire_nrt_J1V-C2_628468.json")
+
+# Filter for approximate Hawaii bounding box
+hawaii_fire <- fire_data %>%
+  filter(
+    latitude >= 18.5, latitude <= 22.5,
+    longitude >= -161, longitude <= -154
   )
 
+```
+
+```{r}
+leaflet(hawaii_fire) %>%
+  addProviderTiles("CartoDB.Positron") %>%
+  addCircleMarkers(
+    ~longitude, ~latitude,
+    #radius = ~frp,  # Fire Radiative Power as size
+    color = "red", stroke = FALSE, fillOpacity = 0.7,
+    popup = ~paste("Brightness:", brightness, "<br>",
+                   "FRP:", frp, "<br>",
+                   "Date:", acq_date, acq_time)
+  ) %>%
+  setView(lng = -157.8583, lat = 21.3069, zoom = 6)
 
 ```
 
