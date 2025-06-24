@@ -1,0 +1,32 @@
+---
+title: "P31-HING MAP"
+author: "Group"
+date: "2025-06-24"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+#install.packages("leaflet")
+
+library(leaflet)
+library(sp)
+
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+hawaii_coords <- c(lat = 21.3069, lng = -157.85830)
+
+leaflet() %>% 
+  addTiles() %>% 
+  setView(lng = hawaii_coords["lng"], lat = hawaii_coords["lat"], zoom = 7) %>% 
+  addMarkers(
+    lng = hawaii_coords["lng"],
+    lat = hawaii_coords["lat"],
+    popup = "Honolulu, HI"
+  )
+
+
+```
+
