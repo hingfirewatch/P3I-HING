@@ -219,7 +219,7 @@ Due to the limitations of the software solutions that will be the final result, 
 
 **Security Concerns**
 
-Depending if the final project will contain sensitive data or will be privately used for government use, there will be some items that will be considered for this project.
+Depending on if the final project will contain sensitive data or will be privately used for government use, there will be some items that will be considered for this project.
 
 Based on the CIA triad.
 
@@ -229,7 +229,7 @@ This project will consider if the APIs and data pulled come from sources that wi
 
 This can include PII such as personal information from reports, camera correspondence, and ID for emergency and state employees.
 
-Due to the mission object of this project, it is important the the reports and data are strictly untouched or unaltered. 
+Due to the mission object of this project, it is important that the reports and data are strictly untouched or unaltered. 
 
 As with availability of this project. There could be threats due to DDoS, malware, etc. so it is imperative to keep this projects backed up, have alternative means of hosting, and is constantly managed for any changes to API structures or security concerns. 
 
