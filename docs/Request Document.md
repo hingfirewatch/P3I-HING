@@ -15,6 +15,10 @@ This document is  requesting for additional resources critical to the mission ob
 **Items Requested**
 
 API subscription / license keys for:
-
+- BreezoMeter
+- FlightRadar
+- Windy
+- FIRMS
+- WebEOC
 
 
