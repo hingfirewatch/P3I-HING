@@ -19,3 +19,15 @@ Data from the inputs are validated before being posted to the “board.”
 
 **Figure 2**  API and managed information streams into WebEOS.
 
+# Prposed APIs to Use
+**BreezoMeter**
+![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/BreezoMeter%20API.png)
+
+**NASA FIRMS**
+![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/FIRMS%20API.png)
+
+**FlightRadar24**
+![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/FlightRadar24%20API.png)
+
+**Windy**
+![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Windy%20API.png)
