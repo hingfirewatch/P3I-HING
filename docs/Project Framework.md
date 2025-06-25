@@ -19,7 +19,7 @@ Data from the inputs are validated before being posted to the “board.”
 
 **Figure 2**  API and managed information streams into WebEOS.
 
-# Prposed APIs to Use
+# Proposed APIs to Use
 **BreezoMeter**
 ![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/BreezoMeter%20API.png)
 
