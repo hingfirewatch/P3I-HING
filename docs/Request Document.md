@@ -15,10 +15,9 @@ This document is  requesting for additional resources critical to the mission ob
 **Items Requested**
 
 API subscription / license keys for:
-- BreezoMeter
-- FlightRadar
-- Windy
-- FIRMS
-- WebEOC
-
-
+- BreezoMeter: Limit - ...
+- FlightRadar: Limit - 500 per month 
+- Windy - Limit - 500 per day 
+- FIRMS - 5000 per 10 minutes
+- WebEOC - ...
+- Departments state information for fire incidents - ...
