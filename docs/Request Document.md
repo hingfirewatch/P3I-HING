@@ -21,3 +21,8 @@ API subscription / license keys for:
 - FIRMS - 5000 per 10 minutes
 - WebEOC - ...
 - Departments state information for fire incidents - ...
+
+From the State of Hawaii, only the county of Honolulu gives the most information about reports. But majority of the information is locked down by requests only. There are some call logs but are only specified for the day. Addition information provided by the HFD are present on their web page through Power Bi graphs and tables. Though, compared to the other counties in the state, there has been lack of information even though social media channels such as Twitter, now known as X. This also includes the Police Departments for each county as well. 
+
+Potentially some information can be scraped from the front or news sections of each of the respective department sites. But it can vary how much information would be helpful in this project.
+
