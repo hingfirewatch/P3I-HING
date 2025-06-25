@@ -11,7 +11,7 @@ WEBEOS contains multiple interlocking APIs that pull data from supported state a
 
 Data from the inputs are validated before being posted to the “board.”
 
-![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Framework_Graph.png)
+![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Screenshot%202025-06-24%20145447.png)
 
 **Figure 1** Shared information streams between different departments federal, state, and military.
 
