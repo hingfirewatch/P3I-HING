@@ -1,10 +1,10 @@
 Schedule For JOC Firewatch Project
 
-Schedule For Weeks 1 - 7 
+## Schedule For Weeks 1 - 7 
 
-Week 1: June 23 - 26
+## Week 1: June 23 - 26
 
-**Framework Planning**
+# **Framework Planning**
 
 * Learn the programs NGB COP (WebEOC) & ARCGIS
 
@@ -30,9 +30,9 @@ Week 1: June 23 - 26
 
    * Possible ETA for emergency services
 
-Week 2: June 30 – July 4
+## Week 2: June 30 – July 4
 
-**Sources Input Review**
+# **Sources Input Review**
 
 * Review of sources
 
@@ -50,9 +50,9 @@ Week 2: June 30 – July 4
 
    * Website layout and design
 
-Week 3: July 7 - 11
+## Week 3: July 7 - 11
 
-**Implementation and Design**
+# **Implementation and Design**
 
 * Inter piecing the APIs to the desired selected software solution
 
@@ -62,9 +62,9 @@ Week 3: July 7 - 11
 
    * Graphic Design Layout for expected outcome
 
-Week 4: July 14 - 17
+## Week 4: July 14 - 17
 
-**Security, Delays, Problems, and Backup Plan**
+# **Security, Delays, Problems, and Backup Plan**
 
 * Determine Security gaps
 
@@ -92,9 +92,9 @@ Week 4: July 14 - 17
 
    * Proposed time frame for development on this system
 
-Week 5 & 6: July 21-  30
+## Week 5 & 6: July 21-  30
 
-**Finalize & Tweak**
+# **Finalize & Tweak**
 
 * Make tweaks to coding structure
 
@@ -102,7 +102,7 @@ Week 5 & 6: July 21-  30
 
 * Prepare problem statement
 
-Week 6: July 28 - 31
+## Week 6: July 28 - 31
 
 **Prepare Presentation**
 
@@ -131,7 +131,7 @@ Address:
  \
 
 
-**Input Sources**
+# **Input Sources**
 
 * Fire Guard
 
@@ -151,7 +151,7 @@ Address:
 
 * Social Media
 
-Air Quality and Fires
+## Air Quality and Fires
 
 * AIRNOW
 
@@ -173,7 +173,7 @@ Air Quality and Fires
 
    * [Map | National Risk Index](https://hazards.fema.gov/nri/map)
 
-Drought
+## Drought
 
 * Drought monitor
 
@@ -206,24 +206,24 @@ NASA worldview
  \
 
 
-**Mission Objective**
+# **Mission Objective**
 
 2025 JOC – P3I: Mission objective is to aggregate multiple open-source data into one software solution in a form of a web page. This project will aggregate multiple sources from State and government sources to help task emergency services of the National Guard and State to pull resources from available flight units to combat wildfires across the counties in the State of Hawaii.
 
-**Problem Statement**
+# **Problem Statement**
 
 Due to the limitations of the software solutions that will be the final result, we need information that is not locked away by requests-only access and/or is not locked by API access keys such as a higher-tier paid service requirement or services locked to enterprise environments. In addition, for APIs to have inter-compatibility with one another to ensure that they can be used in the end product. This will require documentation of the software solution and APIs, access to those API keys and programming interface and authorization as well. For predictability of future events, this project will need access to a server, or hardware solutions that will make use of certain compute units that can process data fast enough for machine learning and possible LLM usage. Similarly, the data pulled must follow a certain format, which can help mitigate further processing and delays in output processes.
 
  \
 
 
-**Security Concerns**
+# **Security Concerns**
 
 Depending on if the final project will contain sensitive data or will be privately used for government use, there will be some items that will be considered for this project.
 
 Based on the CIA triad.
 
-**Confidentiality, Integrity, Availability**
+## **Confidentiality, Integrity, Availability**
 
 This project will consider if the APIs and data pulled come from sources that will be sensitive.
 
@@ -309,4 +309,17 @@ X
 </td>
   </tr>
 </table>
+
+\
+
+# **Proposed Layout**
+![Alt](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/concept/Backup-Template%20Layout.png)
+
+**Figure 1**   Backup layout for custom-made website
+The layout will have a news report message slider on the top left. It will contain social media posts about fires limited to the islands in addition with posts made by state departments like the HPD (police) and HFD (fire). The lower left notification section will include major fires within the islands. The top left section contains the map and map buttons for layers, filters, and additional information. The navigation bar right below the map contains the toggle overlay for the FlightTracker24 viewer and a time slot bar for past events. On the bottom right we finally have the emergency transport vehicle notification section. This section can filter per island which has been revised in Figure 2 with per island button filters.
+
+![Alt](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/concept/Backup-Template%20Layout%20Overlay2.png)
+
+**Figure 2**   Backup layout overlay with Satellite layer mode. 
+This layout now shows a overlay for map layers using the layers button on the map page. In the image it shows Fire, Windy, Drought, and Air Index layer filters. If you click on the hamburger icon for additional map options it should show additional options to select between different map points such as fires with an estimated zone, different data sources, showing fire station locations, and other displayed map points/data.
 
