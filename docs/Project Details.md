@@ -160,6 +160,9 @@ Address:
 * NOAA MODAS, EOSDIS
 
    * [NASA | LANCE | FIRMS](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@-157.89,21.41,10.53z)
+ 
+* Weather/NOAA
+   * [NASA](https://api.weather.gov/)
 
 * NOAA NIFC MODAS, EOSDIS
 
