@@ -200,6 +200,7 @@ Address:
 NOAA
 
 * weather.gov
+ * [api.weather.gov](https://api.weather.gov/)
 
 Resourcewatch
 
@@ -221,6 +222,9 @@ NASA worldview
 
  * Open Sky
   * [Open Sky](https://opensky-network.org/data/api)
+
+ * ADS-B Exchange
+  *  [ADS-B](https://api.adsb.lol/docs#/)
 
 
 # **Mission Objective**
