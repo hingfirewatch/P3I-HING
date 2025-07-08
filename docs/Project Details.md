@@ -161,7 +161,7 @@ Address:
 
    * [NASA | LANCE | FIRMS](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@-157.89,21.41,10.53z)
  
-* Weather/NOAA
+* NWS/NOAA
    * [NASA](https://api.weather.gov/)
 
 * OpenMeteo
@@ -188,6 +188,12 @@ Address:
 * Drought.gov
 
    * [The U.S. Drought Portal | Drought.gov](https://www.drought.gov/)
+ 
+* NOAA CDO
+  *[NOAA CDO](https://www.ncdc.noaa.gov/cdo-web/webservices/v2)
+
+* NWS/NOAA
+   * [NASA](https://api.weather.gov/)
 
 **Other**
 
