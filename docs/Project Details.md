@@ -164,6 +164,9 @@ Address:
 * Weather/NOAA
    * [NASA](https://api.weather.gov/)
 
+* OpenMeteo
+  * [OpenMeteo](https://open-meteo.com/en/docs)
+
 * NOAA NIFC MODAS, EOSDIS
 
    * [NASA | LANCE | FIRMS US/Canada](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-100.0,40.0,4.0z)
