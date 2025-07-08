@@ -230,11 +230,14 @@ NASA worldview
 * Oahu
  * [Fire Department](https://fire.honolulu.gov/)
  * [Police](https://www.honolulupd.org/)
-* Maui
+* Maui, Lanai, and Kahoolawe
  * [Fire & Police Department](https://www.mauicounty.gov/)
 * Hawai'i
  * [Fire Department]([https://fire.honolulu.gov/](https://www.hawaiicounty.gov/departments/fire))
  * [Police](https://www.hawaiipolice.gov/)
+* Kauai
+ * [Fire Department](https://www.kauai.gov/Government/Departments-Agencies/Fire-Department)
+ * [Police](https://www.kauai.gov/Government/Departments-Agencies/Police-Department)
    
 
 # **Mission Objective**
