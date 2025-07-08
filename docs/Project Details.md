@@ -104,7 +104,7 @@ Schedule For JOC Firewatch Project
 
 ## Week 6: July 28 - 31
 
-**Prepare Presentation**
+# **Prepare Presentation**
 
 * Make slideshows
 
@@ -195,7 +195,7 @@ Address:
 * NWS/NOAA
    * [NASA](https://api.weather.gov/)
 
-**Other**
+# **Other**
 
 NOAA
 
