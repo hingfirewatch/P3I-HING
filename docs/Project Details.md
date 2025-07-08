@@ -226,6 +226,16 @@ NASA worldview
  * ADS-B Exchange
   *  [ADS-B](https://api.adsb.lol/docs#/)
 
+## Sources for Websscraping
+* Oahu
+ * [Fire Department](https://fire.honolulu.gov/)
+ * [Police](https://www.honolulupd.org/)
+* Maui
+ * [Fire & Police Department](https://www.mauicounty.gov/)
+* Hawai'i
+ * [Fire Department]([https://fire.honolulu.gov/](https://www.hawaiicounty.gov/departments/fire))
+ * [Police](https://www.hawaiipolice.gov/)
+   
 
 # **Mission Objective**
 
