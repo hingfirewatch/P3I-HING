@@ -1,8 +1,8 @@
-Schedule For JOC Firewatch Project
+# Schedule For JOC Firewatch Project
 
 ## Schedule For Weeks 1 - 7 
 
-## Week 1: June 23 - 26
+### Week 1: June 23 - 26
 
 # **Framework Planning**
 
@@ -128,8 +128,6 @@ Address:
 
 * Supporting Members
 
- \
-
 
 # **Input Sources**
 
@@ -150,6 +148,7 @@ Address:
 * Flight Trackers
 
 * Social Media
+  
 
 ## Air Quality and Fires
 
@@ -198,9 +197,8 @@ Address:
 # **Other**
 
 NOAA
-
-* weather.gov
- * [api.weather.gov](https://api.weather.gov/)
+weather.gov
+* [api.weather.gov](https://api.weather.gov/)
 
 Resourcewatch
 
@@ -216,7 +214,6 @@ NASA worldview
 
 * [NASA Worldview](https://worldview.earthdata.nasa.gov/?v=-161.58038707413584,18.074994085986518,-153.00129968484953,22.050120965315514&t=2025-06-21-T16%3A40%3A35Z)
 
- \
 
 # **Air Tracking**
 
@@ -227,28 +224,30 @@ ADS-B Exchange
   *  [ADS-B](https://api.adsb.lol/docs#/)
 
 ## Sources for Websscraping
-* Oahu
+Oahu
  * [Fire Department](https://fire.honolulu.gov/)
  * [Police](https://www.honolulupd.org/)
-* Maui, Lanai, and Kahoolawe
+Maui, Lanai, and Kahoolawe
  * [Fire & Police Department](https://www.mauicounty.gov/)
-* Hawai'i
+Hawai'i
  * [Fire Department]([https://fire.honolulu.gov/](https://www.hawaiicounty.gov/departments/fire))
  * [Police](https://www.hawaiipolice.gov/)
-* Kauai
+Kauai
  * [Fire Department](https://www.kauai.gov/Government/Departments-Agencies/Fire-Department)
  * [Police](https://www.kauai.gov/Government/Departments-Agencies/Police-Department)
    
 
 # **Mission Objective**
 
-2025 JOC – P3I: Mission objective is to aggregate multiple open-source data into one software solution in a form of a web page. This project will aggregate multiple sources from State and government sources to help task emergency services of the National Guard and State to pull resources from available flight units to combat wildfires across the counties in the State of Hawaii.
+The mission objective of this project is to aggregate multiple open-source datasets into a single web-based software solution. By aggregating state and federal data, the platform will assist emergency response services, including the National Guard and the State to pull resources from available aerial units to combat wildfires across the counties in the State of Hawaii. Our team is developing multi-layer mapping capabilities to visualize current and potential wildfires. State entities provide information for reports, locations, first-response teams, and report times. The federal information flows consist of UV indexes, air quality, brightness mapping, drought, fires, and geographic scans.
 
 # **Problem Statement**
 
-Due to the limitations of the software solutions that will be the final result, we need information that is not locked away by requests-only access and/or is not locked by API access keys such as a higher-tier paid service requirement or services locked to enterprise environments. In addition, for APIs to have inter-compatibility with one another to ensure that they can be used in the end product. This will require documentation of the software solution and APIs, access to those API keys and programming interface and authorization as well. For predictability of future events, this project will need access to a server, or hardware solutions that will make use of certain compute units that can process data fast enough for machine learning and possible LLM usage. Similarly, the data pulled must follow a certain format, which can help mitigate further processing and delays in output processes.
+Due to the limitations of the software solutions that will be the final result, we need information that is not locked away by requests-only access and/or is not locked by API access keys such as a higher-tier paid service requirement or services locked to enterprise environments. In addition, APIs need to have interoperability with one another to ensure that they can be used in the end product. This will require documentation of the software solution and APIs, access to those API keys and programming interface, and authorization as well. For the predictability of future events, this project will need access to a server, or hardware solutions that will make use of certain compute units that can process data fast enough for machine learning and possibly LLM usage. Similarly, the data pulled must follow a certain format, which can help mitigate further processing and delays in output processes.
 
- \
+**Problem Statement Resolution**
+Access to a temporary government email address
+o	This allowed us to make requestof information to government, commerical, and third-party entities to get data access
 
 
 # **Security Concerns**
