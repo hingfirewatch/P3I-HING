@@ -182,14 +182,14 @@ Address:
 
 * Drought monitor
 
-   * [Current Map | U.S. Drought Monitor](https://droughtmonitor.unl.edu/)
+  * [Current Map | U.S. Drought Monitor](https://droughtmonitor.unl.edu/)
 
 * Drought.gov
 
-   * [The U.S. Drought Portal | Drought.gov](https://www.drought.gov/)
+  * [The U.S. Drought Portal | Drought.gov](https://www.drought.gov/)
  
 * NOAA CDO
-  *[NOAA CDO](https://www.ncdc.noaa.gov/cdo-web/webservices/v2)
+  * [NOAA CDO](https://www.ncdc.noaa.gov/cdo-web/webservices/v2)
 
 * NWS/NOAA
    * [NASA](https://api.weather.gov/)
@@ -227,11 +227,14 @@ ADS-B Exchange
 Oahu
  * [Fire Department](https://fire.honolulu.gov/)
  * [Police](https://www.honolulupd.org/)
+   
 Maui, Lanai, and Kahoolawe
  * [Fire & Police Department](https://www.mauicounty.gov/)
+
 Hawai'i
  * [Fire Department]([https://fire.honolulu.gov/](https://www.hawaiicounty.gov/departments/fire))
  * [Police](https://www.hawaiipolice.gov/)
+
 Kauai
  * [Fire Department](https://www.kauai.gov/Government/Departments-Agencies/Fire-Department)
  * [Police](https://www.kauai.gov/Government/Departments-Agencies/Police-Department)
