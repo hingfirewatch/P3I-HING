@@ -232,7 +232,7 @@ Maui, Lanai, and Kahoolawe
  * [Fire & Police Department](https://www.mauicounty.gov/)
 
 Hawai'i
- * [Fire Department]([https://fire.honolulu.gov/](https://www.hawaiicounty.gov/departments/fire))
+ * [Fire Department](https://www.hawaiicounty.gov/departments/fire)
  * [Police](https://www.hawaiipolice.gov/)
 
 Kauai
