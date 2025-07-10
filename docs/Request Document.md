@@ -39,7 +39,7 @@ Granted:
  
   **NOTE:** State information for Fire and Police reports may be granted by HIEMA
 
-============================================================================================================================================
+====================================================================
 
 ## NOTES
 From the State of Hawaii, only the county of Honolulu gives the most information about reports. But majority of the information is locked down by requests only. There are some call logs but are only specified for the day. Addition information provided by the HFD are present on their web page through Power Bi graphs and tables. Though, compared to the other counties in the state, there has been lack of information even though social media channels such as Twitter, now known as X. This also includes the Police Departments for each county as well. 
