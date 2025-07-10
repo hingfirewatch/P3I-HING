@@ -268,7 +268,7 @@ Due to the limitations of the software solutions that will be the final result, 
 
 **Problem Statement Resolution**
 * Access to a temporary government email address
-  * This allowed us to make requestof information to government, commerical, and third-party entities to get data access
+  * This allowed us to make requests for information to government, commerical, and third-party entities to get data access
 
 
 # **Security Concerns**
