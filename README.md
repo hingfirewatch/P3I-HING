@@ -11,18 +11,15 @@ For the predictability of future events, this project will need access to a serv
 ![Alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/concept/Backup-Template%20Layout%20Overlay4.png)
 
 ## **Supporting Documents**
-Project Framework
-
+Project Framework and API Information
 [Project Framework](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/Project%20Framework.md)
 
-Project Documentation
+Project Documentation, Mission, Problems, Requests
+[Project Documentation](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/Project%20Documentation.md)
+[Document of Request](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/Request%20Document.md)
 
-[Projec Documentation](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/Project%20Documentation.md)
-
-Lines of Effort
-
+Lines of Effort - Milestones and Deadlines
 [Lines of Effort](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/Lines%20of%20Effort.md)
 
-Project Concept Layout
-
+Project Concept Layout - Overlays, Make and Feel
 [Project Concept Layout](https://github.com/hingfirewatch/P3I-HING/tree/main/docs/concept)
