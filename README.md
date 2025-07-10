@@ -18,6 +18,7 @@ Project Framework
 Project Documentation
 
 [Projec Documentation](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/Project%20Documentation.md)
+
 Lines of Effort
 
 [Lines of Effort](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/Lines%20of%20Effort.md)
