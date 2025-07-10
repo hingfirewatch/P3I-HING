@@ -17,6 +17,10 @@ Data from the inputs are validated before being posted to the “board.”
 
 **Figure 2**  API and managed information streams into WebEOS.
 
+# Website Framework
+![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Website%20Framework.png)
+
+
 # Proposed APIs to Use
 **BreezoMeter**
 ![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/BreezoMeter%20API.png)
@@ -33,8 +37,11 @@ Data from the inputs are validated before being posted to the “board.”
 **ADS-B Exchange**
 ![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/ADS-B%20Exchange%20API.png)
 
+**WeatherBit**
+![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/WeatherBit%20API.png)
 
-**Backup Framework**
+
+## **Backup Framework**
 
 The backup solution was considered due to the time constraints experienced throughout the planning process of the WebEOC route. After having access to Juvare’s WebEOC and the lack of integration with third-party APIs by default, we considered making the backup the main solution of consideration. While we did weeks-long research on input sources, we worked on a backup implementation on the side. When the team finally got access to WebEOC, many things did not work out. First off, there is the lack of integration for third-party APIs and uploading datasets from files. Many of the functions on the WebEOC solution required tedious time for data log entries. With no option to read from uploaded files, that process could be inefficient for the mission's objective and response time.
 
@@ -46,16 +53,21 @@ Flight tracking will include all the aerial vehicles near the islands including 
 
 
 
-Process
+### Process
+
+**Determine Data Sources and required programming languages + APIs**
 
 Determine what data sources are openly available to the public. Determine which needs government or federal access and which will need subscription or paid access.
 Determine the file format of the data and if it can be incorporated during the analysis process before integration into code or programming.
 See if the API issues tokens for access. In addition, the documentation for the API is easy to understand and implement.
-From a cybersecurity standpoint consider the abuse of the website and API keys if someone were to cause a denial of service (DoS) by spamming the services used. This is part of the consideration for the State to host the website and make it private rather than open to the public. Also for user credential storage, encryption, and the use of salts with hashes.
+***From a cybersecurity standpoint*** consider the abuse of the website and API keys if someone were to cause a denial of service (DoS) by spamming the services used. This is part of the consideration for the State to host the website and make it private rather than open to the public. Also for user credential storage, encryption, and the use of salts with hashes.
  
 Note: Consider that someone could create a script that could make automated commands to pull from one source and use up the transaction limit.
  
 After getting the base features of the dashboard decide what things could be considered out of scope such as expansion of map points to be global instead of being limited to the local area. In addition to utilizing additional scripts for the closest transport vehicles and filtering of alerts based on fire data.
+
+**Determine Hosting**
+The website would either be contracted to a third-party cloud-host as a Platform as a service (PAAS) or hosted by the government. The third-party would be response for physical and interconnecting security in addition to thier networks. But is will require HING to carefully consider how the data is stored and security as HING will be responsible for handling the data stored. If hosted by the state, HING will be requird to safely secure thier systems, networks, and data. Depending on the contriubting datasets pulled and login systems for incident reporting, there will be sensitive data such as report details, login credentials, and API keys.
  
 Leaflet
 
