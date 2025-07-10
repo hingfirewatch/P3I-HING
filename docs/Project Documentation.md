@@ -292,24 +292,21 @@ As with availability of this project. There could be threats due to DDoS, malwar
 # **Proposed Layout**
 ![Alt](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/concept/Backup-Template%20Layout.png)
 
-**Figure 1**   Backup layout for custom-made website
+**Figure 1** - Backup layout for custom-made website
 The layout will have a news report message slider on the top left. It will contain social media posts about fires limited to the islands in addition with posts made by state departments like the HPD (police) and HFD (fire). The lower left notification section will include major fires within the islands. The top left section contains the map and map buttons for layers, filters, and additional information. The navigation bar right below the map contains the toggle overlay for the FlightTracker24 viewer and a time slot bar for past events. On the bottom right we finally have the emergency transport vehicle notification section. This section can filter per island which has been revised in Figure 2 with per island button filters.
 
 ![Alt](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/concept/Backup-Template%20Layout%20Overlay4.png)
 
-**Figure 2** Layout from default map 
+**Figure 2** - Layout from default map, Points are clustered until zoomed in as indicated by Figure 4
 
 ![Alt](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/concept/Backup-Template%20Layout%20Overlay2.png)
 
-**Figure 3**   Backup layout overlay with Satellite layer mode. 
+**Figure 3** - Backup layout overlay with Satellite layer mode. 
 This layout now shows a overlay for map layers using the layers button on the map page. In the image it shows Fire, Windy, Drought, and Air Index layer filters. If you click on the hamburger icon for additional map options it should show additional options to select between different map points such as fires with an estimated zone, different data sources, showing fire station locations, and other displayed map points/data.
 
 ![Alt](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/concept/Backup-Template%20Layout%20Overlay3.png)
 
-**Figure 4** Layout from selecting a point and the overlay for data
+**Figure 4** - Layout from selecting a point and the overlay for data
 
-![Alt](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/concept/Backup-Template%20Layout%20Overlay4.png)
-
-**Figure 3** Layout from default map 
 
 
