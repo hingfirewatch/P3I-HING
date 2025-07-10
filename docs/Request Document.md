@@ -1,7 +1,7 @@
 # **Document For Request**
 ## HING JOC Wildfire Detection Project
 
-#**Overview**
+# **Overview**
 This document is requesting additional resources critical to the mission objective of gathering intelligence and data required for analyzing and incorporating into the selected software solution. The data required is from state, federal, and commercial entities which require government, military, and paid access.
 Certain organizations have limited data and many of the services that are mission-focused are locked away. 
  
@@ -17,25 +17,31 @@ The mission objective of this project is to aggregate multiple open-source datas
 Due to the limitations of the software solutions that will be the final result, we need information that is not locked away by requests-only access and/or is not locked by API access keys such as a higher-tier paid service requirement or services locked to enterprise environments. In addition, APIs need to have interoperability with one another to ensure that they can be used in the end product. This will require documentation of the software solution and APIs, access to those API keys and programming interface, and authorization as well. For the predictability of future events, this project will need access to a server, or hardware solutions that will make use of certain compute units that can process data fast enough for machine learning and possibly LLM usage. Similarly, the data pulled must follow a certain format, which can help mitigate further processing and delays in output processes.
 
 *Update (7/9/25):* After getting access to WEBEOC, the main problem that was encountered was the lack of third-party integration with other APIs to grab the required data for inputs. There might be another element or software solution tied to WEBEOC Nexus or the Juvare platform. The current situation: most of the fields tied to the mapping are manual and can be very difficult in consideration to the emergency-based situations that will occur.
+NOTE: The team has decided to move forth with the backup plan: creating our own solution.
 
 
 # **Items Requested**
 
 API subscription / license keys for:
-- BreezoMeter: Limit - ...
-- FlightRadar: Limit - 500 per month 
-- Windy - Limit - 500 per day 
-- FIRMS - 5000 per 10 minutes
-- Departments state information for fire incidents
+- BreezoMeter: Limit (STATUS: DENIED)
+- FlightRadar: Limit (STATUS: DENIED)
+- Windy - Limit (STATUS: DENIED)
+- WeatherBit (STATUS: IN USE)
+- FIRMS - 5000 per 10 minutes (STATUS: IN USE)
+- Departments state information for fire incidents (STATUS: TBD)
+- ADS-B Exchange (STATUS: IN USE)
+- Fire Guard (STATUS: TBD)
+- Rapids (STATUS: TBD)
 
-  Granted:
+Granted:
 - WebEOC : (Access granted)
   - Comment: Software does not have the solution required for 3rd-party data input, might require a connected solution on the same platform
  
   **NOTE:** State information for Fire and Police reports may be granted by HIEMA
 
+============================================================================================================================================
 
-
+## NOTES
 From the State of Hawaii, only the county of Honolulu gives the most information about reports. But majority of the information is locked down by requests only. There are some call logs but are only specified for the day. Addition information provided by the HFD are present on their web page through Power Bi graphs and tables. Though, compared to the other counties in the state, there has been lack of information even though social media channels such as Twitter, now known as X. This also includes the Police Departments for each county as well. 
 
 Potentially some information can be scraped from the front or news sections of each of the respective department sites. But it can vary how much information would be helpful in this project.
