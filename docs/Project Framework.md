@@ -41,7 +41,7 @@ Data from the inputs are validated before being posted to the “board.”
 ![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/WeatherBit%20API.png)
 
 
-## **Backup Framework**
+# **Backup Framework**
 
 The backup solution was considered due to the time constraints experienced throughout the planning process of the WebEOC route. After having access to Juvare’s WebEOC and the lack of integration with third-party APIs by default, we considered making the backup the main solution of consideration. While we did weeks-long research on input sources, we worked on a backup implementation on the side. When the team finally got access to WebEOC, many things did not work out. First off, there is the lack of integration for third-party APIs and uploading datasets from files. Many of the functions on the WebEOC solution required tedious time for data log entries. With no option to read from uploaded files, that process could be inefficient for the mission's objective and response time.
 
@@ -53,7 +53,7 @@ Flight tracking will include all the aerial vehicles near the islands including 
 
 
 
-### Process
+## Process
 
 **Determine Data Sources and required programming languages + APIs**
 
@@ -69,7 +69,7 @@ After getting the base features of the dashboard decide what things could be con
 **Determine Hosting**
 The website would either be contracted to a third-party cloud-host as a Platform as a service (PAAS) or hosted by the government. The third-party would be response for physical and interconnecting security in addition to thier networks. But is will require HING to carefully consider how the data is stored and security as HING will be responsible for handling the data stored. If hosted by the state, HING will be requird to safely secure thier systems, networks, and data. Depending on the contriubting datasets pulled and login systems for incident reporting, there will be sensitive data such as report details, login credentials, and API keys.
  
-Leaflet
+## Leaflet
 
 See whether the data can be important and understood depending on what attributes each data point has.
 Decide on the default presentation. Zoom in, filtered points (not global), clustered points, and information display on overlay. Decide if the map starts in flat mode or satellite mode.
