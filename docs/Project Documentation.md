@@ -267,8 +267,8 @@ The mission objective of this project is to aggregate multiple open-source datas
 Due to the limitations of the software solutions that will be the final result, we need information that is not locked away by requests-only access and/or is not locked by API access keys such as a higher-tier paid service requirement or services locked to enterprise environments. In addition, APIs need to have interoperability with one another to ensure that they can be used in the end product. This will require documentation of the software solution and APIs, access to those API keys and programming interface, and authorization as well. For the predictability of future events, this project will need access to a server, or hardware solutions that will make use of certain compute units that can process data fast enough for machine learning and possibly LLM usage. Similarly, the data pulled must follow a certain format, which can help mitigate further processing and delays in output processes.
 
 **Problem Statement Resolution**
-Access to a temporary government email address
-o	This allowed us to make requestof information to government, commerical, and third-party entities to get data access
+* Access to a temporary government email address
+  * This allowed us to make requestof information to government, commerical, and third-party entities to get data access
 
 
 # **Security Concerns**
