@@ -128,27 +128,40 @@ Address:
 
 * Supporting Members
 
-
+  
 # **Input Sources**
 
-* Fire Guard
+* NOAA Fire Infromation for Resource Management System (FIRMS)
 
-* FIRMS
+* WeatherBit
 
-* Windy
+* National Weather Service (NWS)
 
-* WebEOC
+* Fire Department (all counties) - Currently: No access to database (HIEMA Related)
 
-* Fire Department (all counties)
+* Police Data (all counties) - Currently: No access to database (HIEMA Related)
 
-* Police Data (all counties)
+* County activity and indicators (Web scrape news)
 
-* County activity and indicators
+* Flight Trackers:
+  * OpenSky
+  * ADS-B Exchange
 
-* Flight Trackers
+### Defunct Options
 
-* Social Media
-  
+* Social Media (Out of scope / API is paid)
+
+* FlightRadar24 (API is paid)
+
+* BreezoMeter
+
+* Windy (Alternative found)
+
+* Fire Guard (No response from support)
+
+* WebEOC (Minimal API integration with Nexus)
+
+# Helpful Resources
 
 ## Air Quality and Fires
 
