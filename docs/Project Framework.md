@@ -2,8 +2,7 @@
 
 WEBEOS is a web-based software solution that encompasses emergency, state, military, and federal agencies + departments for emergency notifications, event tracking, and incident management systems.
 
-WEBEOS contains multiple interlocking APIs that pull data from supported state and government agencies that feed that data into the system. Most of these data are locked behind request-only and government authorization. Due to time constraints from research and development and addition required datasets and feeds, it would be recommended to develop a system under WEBEOS. Some example of the supported APIs are ARCGIS, NASA’s FIRMs. Which are either limited my a threshold usage count or limited by enterprise request.
-
+WEBEOS contains multiple interlocking APIs that pull data from supported state and government agencies that feed that data into the system. Most of these data are locked behind request-only and government authorization. Due to time constraints from research and development and the additional required datasets and feeds, it would be recommended to develop a system under WEBEOS. Some examples of the supported APIs are ARCGIS, NASA’s FIRMs. Which are either limited by a threshold usage count or limited by an enterprise request.
 
 
 **Overview**
@@ -36,6 +35,7 @@ Data from the inputs are validated before being posted to the “board.”
 
 
 **Backup Framework**
+
 The backup solution was considered due to the time constraints experienced throughout the planning process of the WebEOC route. After having access to Juvare’s WebEOC and the lack of integration with third-party APIs by default, we considered making the backup the main solution of consideration. While we did weeks-long research on input sources, we worked on a backup implementation on the side. When the team finally got access to WebEOC, many things did not work out. First off, there is the lack of integration for third-party APIs and uploading datasets from files. Many of the functions on the WebEOC solution required tedious time for data log entries. With no option to read from uploaded files, that process could be inefficient for the mission's objective and response time.
 
 The backup solution is a web-based software page that allows access to a dashboard, login system, and user accounts. This solution would be mostly hosted on either federal computer systems or by the State. It is more likely the latter due to authorization followed by procedures and policies in place. The equipment must be able to host the web page, possibly store weather data, reports, and possibly contain sensitive data such as PII. If the web service is maintained such as renewing API tokens then the solution would not need much user training.
