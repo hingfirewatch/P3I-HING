@@ -236,7 +236,7 @@ Open Sky
 ADS-B Exchange
   *  [ADS-B](https://api.adsb.lol/docs#/)
 
-## Sources for Websscraping
+## Sources for Web scraping
 Oahu
  * [Fire Department](https://fire.honolulu.gov/)
  * [Police](https://www.honolulupd.org/)
@@ -251,7 +251,12 @@ Hawai'i
 Kauai
  * [Fire Department](https://www.kauai.gov/Government/Departments-Agencies/Fire-Department)
  * [Police](https://www.kauai.gov/Government/Departments-Agencies/Police-Department)
-   
+
+Hawaii News:
+  * [Hawaii News Now](https://www.hawaiinewsnow.com/)
+  * [KHON2](https://www.khon2.com/)
+  * [KITV](https://www.kitv.com/)
+  * [Star Advertiser](https://www.staradvertiser.com/hawaii-news/)
 
 # **Mission Objective**
 
