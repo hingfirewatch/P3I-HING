@@ -15,6 +15,7 @@ WebEOC is a web-based software solution that encompasses emergency, state, milit
 
 WebEOC contains multiple interlocking APIs that pull data from supported state and government agencies that feed that data into the system. Most of these data are locked behind request-only and government authorization. Due to time constraints from research and development and the additional required datasets and feeds, it would be recommended to develop a system under WEBEOS. Some examples of the supported APIs are ARCGIS, NASA’s FIRMs. Which are either limited by a threshold usage count or limited by an enterprise request.
 
+![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Juvare___COVID_19.jpg)
 
 ***UPDATE (7/11/25):*** Note WebEOC no longer considered due to additional software solutions under Juvare that are required in addition to WebEOC Nexus. Nexus does not have the capability for API integration besides a limited plug-in available.
 
@@ -87,6 +88,9 @@ After getting the base features of the dashboard, decide what things could be co
 
 Recommendations
  Converse with higher management about rules of engagement and options available. Request that these tools not be readily available due to authorization concerns, long access wait times, technical problems, learning environment, and update them about expectations.
+
+For access to additional State and Federal add it is essential that HIEMA gives access to reports and city data.
+ 
 It is recommended that these topics be covered before starting the project:
 ·	Set budget
 ·	Authorization and access to systems and datasets
