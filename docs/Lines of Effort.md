@@ -45,12 +45,25 @@
 
 * Update Delays
 
+> [!WARNING]
+> Line 6 from the Lines of Effort (LOE), will not be implemented due to project scope.
+
 ## **Line 6**: Data for ML & Waypoints based on high/possible risk
+
+·	Importing multiple datasets
+
+·	Learning time for multiple cycles
+
+·	Multiple iterations/models for data output
+
+·	LLM and ML methods for consideration
+
+·	Integrate into a API for dashboard as chatbot
+
 
 ![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Lines%20of%20Effort%20(Backup).png)
 
-> [!WARNING]
-> Line 6 from the Lines of Effort (LOE), will not be implemented due to project scope.
+
 
 
 # **WebEOC Solution Planning**
