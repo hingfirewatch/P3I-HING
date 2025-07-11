@@ -42,6 +42,9 @@ Data from the inputs are validated before being posted to the “board.”
 **NASA FIRMS**
 ![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/FIRMS%20API.png)
 
+**Windy**
+![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Windy%20API.png)
+
 **ADS-B Exchange**
 ![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/ADS-B%20Exchange%20API.png)
 
@@ -111,6 +114,3 @@ Decide on the default presentation. Zoom in, filtered points (not global), clust
 
 **FlightRadar24**
 ![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/FlightRadar24%20API.png)
-
-**Windy**
-![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Windy%20API.png)
