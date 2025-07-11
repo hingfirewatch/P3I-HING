@@ -33,7 +33,11 @@
 
 ## **Line 4**:  Security
 
-* API Keys (Locked sources of data)
+*	API Keys (encryption)
+
+*	Data security
+  
+*	SQL database for login
 
 ## **Line 5**: Systems + Equipment
 
@@ -41,9 +45,11 @@
 
 * Equipment handling (Specifications)
 
-* Security: DDoS, API-key provider
+* Security: DDoS, API-key provider, encryption
+  
+* Regulations with sensitive data storage
 
-* Update Delays
+*	Update Delays
 
 > [!WARNING]
 > Line 6 from the Lines of Effort (LOE), will not be implemented due to project scope.
