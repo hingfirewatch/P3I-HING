@@ -19,7 +19,7 @@ Project Documentation, Mission, Problems, Requests
 
 [Project Documentation](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/Project%20Documentation.md)
 
-[Document of Request](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/Request%20Document.md)
+[Document for Request](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/Request%20Document.md)
 
 Lines of Effort - Milestones and Deadlines
 
