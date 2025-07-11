@@ -4,7 +4,7 @@
 
 # July 11, 2015
 
-# HING JOC Wildfire Deteciton Project
+# HING JOC Wildfire Detection Project
 
 
 
@@ -14,7 +14,7 @@
 
 **Juvare WEBEOSWEBOS Framework**
 
-![alt](https://www.rothschildandco.com/en/five-arrows/corporate-private-equity/portfolio/juvare/)
+![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/juvare.png)
 
 WEBEOS is a web-based software solution that encompasses emergency, state, military, and federal agencies and departments for emergency notifications, event tracking, and incident management systems.
 
