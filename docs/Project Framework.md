@@ -1,8 +1,25 @@
-**WEBOS Framework**
 
-WEBEOS is a web-based software solution that encompasses emergency, state, military, and federal agencies + departments for emergency notifications, event tracking, and incident management systems.
+
+# **Project Framework Document**
+
+# July 11, 2015
+
+# HING JOC Wildfire Deteciton Project
+
+
+
+
+
+
+
+**Juvare WEBEOSWEBOS Framework**
+
+![alt](https://www.rothschildandco.com/en/five-arrows/corporate-private-equity/portfolio/juvare/)
+
+WEBEOS is a web-based software solution that encompasses emergency, state, military, and federal agencies and departments for emergency notifications, event tracking, and incident management systems.
 
 WEBEOS contains multiple interlocking APIs that pull data from supported state and government agencies that feed that data into the system. Most of these data are locked behind request-only and government authorization. Due to time constraints from research and development and the additional required datasets and feeds, it would be recommended to develop a system under WEBEOS. Some examples of the supported APIs are ARCGIS, NASA’s FIRMs. Which are either limited by a threshold usage count or limited by an enterprise request.
+
 
 
 **Overview**
@@ -22,17 +39,9 @@ Data from the inputs are validated before being posted to the “board.”
 
 
 # Proposed APIs to Use
-**BreezoMeter**
-![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/BreezoMeter%20API.png)
 
 **NASA FIRMS**
 ![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/FIRMS%20API.png)
-
-**FlightRadar24**
-![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/FlightRadar24%20API.png)
-
-**Windy**
-![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Windy%20API.png)
 
 **ADS-B Exchange**
 ![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/ADS-B%20Exchange%20API.png)
@@ -53,23 +62,53 @@ Flight tracking will include all the aerial vehicles near the islands including 
 
 
 
-## Process
+## Decision Process Workflow
+### Determine Data Sources
+1.	Determine what data sources are openly available to the public. Determine which needs government or federal access and which will need subscription or paid access.
+2.	Determine the file format of the data and if it can be incorporated during the analysis process before integration into code or programming.
+   
+### Overseeing API Access
+1.	See if the API issues tokens for access. In addition, ascertain if documentation for the API is easy to understand and implement.
+2.	Check API key privileges, service limits, and usage boundaries.
+3.	Confirm with team if programming languages and libraries are compatible with the current code base.
 
-**Determine Data Sources and required programming languages + APIs**
-
-Determine what data sources are openly available to the public. Determine which needs government or federal access and which will need subscription or paid access.
-Determine the file format of the data and if it can be incorporated during the analysis process before integration into code or programming.
-See if the API issues tokens for access. In addition, the documentation for the API is easy to understand and implement.
-***From a cybersecurity standpoint*** consider the abuse of the website and API keys if someone were to cause a denial of service (DoS) by spamming the services used. This is part of the consideration for the State to host the website and make it private rather than open to the public. Also for user credential storage, encryption, and the use of salts with hashes.
- 
+### Determine Security Controls and Risks
+1.	API Key Encryption and Abuse
+Consider the abuse of the website and API keys if someone were to cause a denial of service (DoS) by a flood of service requests. 
 Note: Consider that someone could create a script that could make automated commands to pull from one source and use up the transaction limit.
- 
-After getting the base features of the dashboard decide what things could be considered out of scope such as expansion of map points to be global instead of being limited to the local area. In addition to utilizing additional scripts for the closest transport vehicles and filtering of alerts based on fire data.
+2.  Web Service Host  
+There is a consideration for the State to host the website and make it private rather than open to the public. This is due to sensitive data and availability of service.
+Other options include hosting by Federal and third-parties. We were told this would be unlikely due to budget concerns and the policy and procedures for consideration for federal use and the security management processes for third-party hosting.
+3. Encryption and Sensitive Data
+Pulling data from Federal and Commercial providers can be sensitive and may have some legal regulations on storage practices and usage. It is advised that API keys must be protected. This can be achieved with encryption algorithms that use hashing techniques, which can also be layered with salts for complexity. In connection with this, this can apply to user credentials which will require the same principle.
 
-**Determine Hosting**
-The website would either be contracted to a third-party cloud-host as a Platform as a service (PAAS) or hosted by the government. The third-party would be response for physical and interconnecting security in addition to thier networks. But is will require HING to carefully consider how the data is stored and security as HING will be responsible for handling the data stored. If hosted by the state, HING will be requird to safely secure thier systems, networks, and data. Depending on the contriubting datasets pulled and login systems for incident reporting, there will be sensitive data such as report details, login credentials, and API keys.
+Depending on the acceptance of this project moving forward, data could be saved on the hosting systems which could require some form of encryption as well. Otherwise, checks on how the data is secured while in transit to the project would be required if not locally stored 
+
+### Scope and Improvements
+After getting the base features of the dashboard, decide what things could be considered out of scope such as the range of map points (global vs local). In addition to utilizing additional scripts for the closest transport vehicles and filtering of alerts based on fire data. In addition, APIs that were originally considered but dropped due to a lack of access, paid subscriptions, and government requests. This also coincides with the limitations of the interoperability of the different coding languages and libraries used.
+
+Recommendations
+ Converse with higher management about rules of engagement and options available. Request that these tools not be readily available due to authorization concerns, long access wait times, technical problems, learning environment, and update them about expectations.
+It is recommended that these topics be covered before starting the project:
+·	Set budget
+·	Authorization and access to systems and datasets
+·	Timelines and Deadlines
+·	A person of contact (POC)
+·	Set expectations of what can't be done
+
  
 ## Leaflet
 
 See whether the data can be important and understood depending on what attributes each data point has.
 Decide on the default presentation. Zoom in, filtered points (not global), clustered points, and information display on overlay. Decide if the map starts in flat mode or satellite mode.
+
+# Other Resources
+
+**BreezoMeter**
+![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/BreezoMeter%20API.png)
+
+**FlightRadar24**
+![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/FlightRadar24%20API.png)
+
+**Windy**
+![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Windy%20API.png)
