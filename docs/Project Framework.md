@@ -2,9 +2,9 @@
 
 # **Project Framework Document**
 
-# July 11, 2015
+July 11, 2015
 
-# HING JOC Wildfire Detection Project
+HING JOC Wildfire Detection Project
 
 
 
