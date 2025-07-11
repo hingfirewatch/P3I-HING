@@ -56,15 +56,15 @@
 
 ## **Line 6**: Data for ML & Waypoints based on high/possible risk
 
-·	Importing multiple datasets
+*	Importing multiple datasets
 
-·	Learning time for multiple cycles
+*	Learning time for multiple cycles
 
-·	Multiple iterations/models for data output
+*	Multiple iterations/models for data output
 
-·	LLM and ML methods for consideration
+*	LLM and ML methods for consideration
 
-·	Integrate into a API for dashboard as chatbot
+*	Integrate into a API for dashboard as chatbot
 
 
 ![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Lines%20of%20Effort%20(Backup).png)
