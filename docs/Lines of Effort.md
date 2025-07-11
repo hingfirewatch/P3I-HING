@@ -48,7 +48,8 @@
 
 
 # **WebEOC Solution Planning**
-**NOTE: This route is decrepit**
+> [!NOTE]
+> This route is decrepit!
 
 ## **Line 1**: Access + Data
 
