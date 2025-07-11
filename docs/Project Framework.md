@@ -12,7 +12,7 @@
 
 
 
-**Juvare WEBEOSWEBOS Framework**
+**Juvare WebEOS**
 
 ![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/juvare.png)
 
