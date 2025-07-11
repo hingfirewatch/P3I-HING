@@ -1,4 +1,4 @@
-# **Backup Solution Planning**
+# **Custom Web-based Solution Planning**
 
 * Determine API compatibility
 
@@ -47,7 +47,8 @@
 ![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Lines%20of%20Effort%20(Backup).png)
 
 
-# **Main Solution Planning**
+# **WebEOC Solution Planning**
+**NOTE: This route is decrepit**
 
 ## **Line 1**: Access + Data
 
