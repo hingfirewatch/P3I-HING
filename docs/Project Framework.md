@@ -6,20 +6,14 @@ July 11, 2015
 
 HING JOC Wildfire Detection Project
 
-
-
-
-
-
-
-**Juvare WebEOS**
+_____________________________________________________________
+## **Juvare WebEOS**
 
 ![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/juvare.png)
 
 WEBEOS is a web-based software solution that encompasses emergency, state, military, and federal agencies and departments for emergency notifications, event tracking, and incident management systems.
 
 WEBEOS contains multiple interlocking APIs that pull data from supported state and government agencies that feed that data into the system. Most of these data are locked behind request-only and government authorization. Due to time constraints from research and development and the additional required datasets and feeds, it would be recommended to develop a system under WEBEOS. Some examples of the supported APIs are ARCGIS, NASA’s FIRMs. Which are either limited by a threshold usage count or limited by an enterprise request.
-
 
 
 **Overview**
