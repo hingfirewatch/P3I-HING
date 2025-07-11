@@ -1,5 +1,8 @@
 # **Custom Web-based Solution Planning**
 
+> [!IMPORTANT]
+> This will be the main route moving forward.
+
 * Determine API compatibility
 
 * Determine Data Sources
@@ -45,6 +48,9 @@
 ## **Line 6**: Data for ML & Waypoints based on high/possible risk
 
 ![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Lines%20of%20Effort%20(Backup).png)
+
+> [!WARNING]
+> Line 6 from the Lines of Effort (LOE), will not be implemented due to project scope.
 
 
 # **WebEOC Solution Planning**
