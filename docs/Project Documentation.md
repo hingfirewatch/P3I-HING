@@ -155,7 +155,7 @@ Figure 9   Right-side alert page listing recently made notifications.
 
 **Login Page**
 
-![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Login.png)
+<img src="https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Login.png" alt="" width="800" />
 
 **Planned Features**
 
