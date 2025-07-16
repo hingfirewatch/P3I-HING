@@ -377,7 +377,8 @@ Flask <br>
 Leaflet <br>
 `npm install leaflet react-leaflet` <br>
 
-Web Scraper Notification <br>
+***Web Scraper Notification***
+
 Python: BeautifulSoup + requests <br>
 `pip install beautifulsoup4` <br>
 `pip install requests` <br>
