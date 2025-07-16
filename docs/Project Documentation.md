@@ -348,9 +348,10 @@ Recommended Requirements:
 
 **Figure 15**   Lines of Effort - reference to military approach to milestones.
 
-Installation Guide
-Recommended Tools:
-Integrated Development Environment (IDE) like Microsoft VS Code 
+## Installation Guide
+
+***Recommended Tools:*** <br>
+Integrated Development Environment (IDE) like Microsoft VS Code  <br>
 
 ***Website***
 
