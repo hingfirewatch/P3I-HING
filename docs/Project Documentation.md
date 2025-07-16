@@ -353,20 +353,22 @@ Recommended Tools:
 Integrated Development Environment (IDE) like Microsoft VS Code 
 
 ***Website***
+
 Prerequisites: <br>
 Python 3.8+ <br>
 Node.js + npm <br>
 PostgreSQL <br>
 
 Bootstrap <br>
-`npm install bootstrap`
+`npm install bootstrap` <br>
 Next.js <br>
 `npx create-next-app@latest my-app` <br>
 `cd my-app`
 React.js <br>
-`npm install react react-dom next`
+`npm install react react-dom next` <br>
 
 ***Map***
+
 Flask <br>
 `python -m venv venv` <br>
 `source venv/bin/activate` <br>
