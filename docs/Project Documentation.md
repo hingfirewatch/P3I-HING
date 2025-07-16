@@ -361,23 +361,23 @@ PostgreSQL
 Bootstrap
 `npm install bootstrap`
 Next.js
-`npx create-next-app@latest my-app
-cd my-app`
+`npx create-next-app@latest my-app` <br>
+`cd my-app`
 React.js
 `npm install react react-dom next`
 
 Map
 Flask
-`python -m venv venv
-source venv/bin/activate
-pip install Flask Flask-Cors Flask-SQLAlchemy psycopg2-binary`
+`python -m venv venv` <br>
+`source venv/bin/activate` <br>
+`pip install Flask Flask-Cors Flask-SQLAlchemy psycopg2-binary`
 Leaflet
 `npm install leaflet react-leaflet`
 
 Web Scraper Notification
 Python: BeautifulSoup + requests
-`pip install beautifulsoup4
-pip install requests`
+`pip install beautifulsoup4` <br>
+`pip install requests`
 
 
 /
