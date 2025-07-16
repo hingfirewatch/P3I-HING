@@ -57,8 +57,11 @@ Schedule For JOC HING Firewatch Project
 
 Proposed Budget	
 
+
+==============================================================
+
 \
-\
+
 
 ## Introducion
 This Joint Operations Center (JOC) Firewatch Project, under the Hawaii National Guard is a data-driven web application solution designed to support the mitigation efforts across the State of Hawaii, accounting for all counties. This platform consolidates key information from both state and federal sources, delivering real-time insights to emergency responders, policy makers, and strategic planners.
