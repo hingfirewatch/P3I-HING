@@ -406,6 +406,7 @@ pip install requests`
 
 ## Schedule For JOC HING Firewatch Project
 ***Schedule For Weeks 1 - 7***
+
 ***Week 1: June 23 - 26***
 
 **Framework Planning**
