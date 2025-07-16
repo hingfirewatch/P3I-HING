@@ -16,19 +16,19 @@ Functional Requirements
 
 Interface Requirements	
   
-  User Interface	
+  - User Interface	
   
-  Proposed Layout	
+  - Proposed Layout	
   
-  Finalized Dashboard	
+  - Finalized Dashboard	
   
-  Alert Form	
+  - Alert Form	
   
-  Incident and News Page Section	
+  - Incident and News Page Section	
   
-  Active Alerts	
+  - Active Alerts	
   
-  Login Page	
+  - Login Page	
 
 Planned Features	
 
@@ -38,11 +38,11 @@ Data Sources
 
 Security, Maintenance, Reliability Overview	
   
-  Security	
+  - Security	
   
-  Maintenance	
+  - Maintenance	
   
-  Reliability	
+  - Reliability	
 
 Lines of Effort	
 
@@ -53,6 +53,9 @@ Host Server Requirements
 Schedule For JOC HING Firewatch Project	
 
 Proposed Budget	
+
+\
+\
 
 ## Introducion
 This Joint Operations Center (JOC) Firewatch Project, under the Hawaii National Guard is a data-driven web application solution designed to support the mitigation efforts across the State of Hawaii, accounting for all counties. This platform consolidates key information from both state and federal sources, delivering real-time insights to emergency responders, policy makers, and strategic planners.
@@ -76,6 +79,8 @@ Due to the limitations of the software solutions that will be the final result, 
 ## Solution Compatibility
 As a web solution, this platform was intended to target a multitude of devices. Such as desktops, laptops, tablets, and mobile computing devices like smartphones. For the hosting aspect of this project, it will depend on the hardware and software package and/or libraries that will support the technologies and requirements later specified in this document. A multitude of APIs could be applied but due to time constraints and current implementation of technologies, there have been some limitations that could be addressed and more technologies added in the future.
 
+\
+\
 
 ## Functional Requirements
 1.Data fed through the solution may require safeguarding such a weather data collected by federal systems. 
@@ -91,6 +96,8 @@ As a web solution, this platform was intended to target a multitude of devices. 
   1.Additional alerts and notifications in the system can be manipulated and created through the interactive alert form on the web solution.
   2.This feature can be locked to users registered within the software solution.
 
+\
+\
 
 ## Interface Requirements
 ### User Interface
