@@ -243,12 +243,12 @@ NOAA
 *  [Weather Gov](https://www.weather.gov/)
 
 Resourcewatch
-*  ![Resourewatch](https://resourcewatch.org/dashboards/climate)
+*  [Resourewatch](https://resourcewatch.org/dashboards/climate)
 
 OpenData Hawaii Gov
-*  ![Opendata](https://opendata.hawaii.gov/)
-*  ![Geoportal](https://geoportal.hawaii.gov/)
+*  [Opendata](https://opendata.hawaii.gov/)
+*  [Geoportal](https://geoportal.hawaii.gov/)
 
 NASA worldview
-*  ![Worldview](https://worldview.earthdata.nasa.gov/?v=-161.58038707413584,16.861705037718462,-153.00129968484953,23.26341001358357&t=2025-06-21-T16%3A40%3A35Z)
+*  [Worldview](https://worldview.earthdata.nasa.gov/?v=-161.58038707413584,16.861705037718462,-153.00129968484953,23.26341001358357&t=2025-06-21-T16%3A40%3A35Z)
 
