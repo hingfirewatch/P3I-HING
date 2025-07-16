@@ -253,3 +253,45 @@ OpenData Hawaii Gov
 NASA worldview
 *  [Worldview](https://worldview.earthdata.nasa.gov/?v=-161.58038707413584,16.861705037718462,-153.00129968484953,23.26341001358357&t=2025-06-21-T16%3A40%3A35Z)
 
+
+/
+/
+
+
+## Security
+Depending on data storage decisions, this project will contain sensitive data or will be used privately for government use, there will be some items that will be considered for this project.
+
+Sensitive data such as PII will contain personal information from reports, camera correspondence, and contact for emergency, state, federal, and military purposes. Additional information flow will also contain weather and scientific data locked to third parties locked to certain use cases. 
+
+Based on the CIA triad, Confidentiality, Integrity, and Availability will explain information 
+security principles for business operations and risk.
+
+Due to the mission objective of this project, it is important that the reports and data are strictly untouched or unaltered. 
+As with the availability of this project. There could be threats due to DDoS, malware, etc. so it is imperative to keep this project backed up, have alternative means of hosting, and constantly manage for any changes to API structures or security concerns. 
+
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Mission_Heat%20map.png)
+
+**Figure 17**   CIA Triad - securiy heat map.
+
+## Maintenance
+This project will require maintenance (at minimal) for API key access upon expiration and due to technical errors such as revoked tokens. In addition to adding new API keys for new API and services added in the future.
+ There might be additional efforts in filtering for alert notifications and clearing or correcting past manually added alerts.
+
+## Reliability
+The map for this project will pull from three to four sources of data from both federal and community and scientific-driven sources. If one of the sources is down the project will include other resources to related services. The majority of these sources of data are real-time and are frequently updated.
+
+## Recommended Hardware Specificaitions
+The web application may require the lists hardware requirements to ensure that operation of the software is run smoothly.
+
+***Minimum Requirements:***
+
+| **Component** | **Specifications**                            |
+|---------------|-----------------------------------------------|
+| **CPU**       | Intel Core i3 (8th gen) **OR** AMD Ryzen 3 (3000 series) |
+| **RAM**       | 4 GB                                           |
+| **Storage**   | 60 GB HDD or SSD                               |
+| **GPU**       | Integrated Intel or AMD                        |
+| **OS**        | Windows 10, macOS 10.13+, or Ubuntu 20.04+     |
+| **Browser**   | Latest version of Chrome, Firefox, or Edge     |
+| **Network**   | 10 Mbps broadband                              |
+
