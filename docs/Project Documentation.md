@@ -2,11 +2,10 @@
 ## HING JOC Wildfire Incident Project
 ### July 15, 2015
 
-### TABLE OF CONTENTS
-
-
 ==============================================================
 
+
+### TABLE OF CONTENTS
 
 Introduction
 
@@ -199,7 +198,6 @@ A popup bar for chatting, page for team/group assignment, shared resources, and 
 
 
 /
-/
 
 
 ## Data Sources
@@ -216,41 +214,41 @@ AirNow Fire and Smoke Map
 * ![AirNow](https://fire.airnow.gov/#8.89/21.3814/-157.6607)
   
 NASA | LANCE | FIRMS
-* ![FIRMS](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@-157.89,21.41,10.53z)
+* [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@-157.89,21.41,10.53z)
   
 NASA Worldview
-* ![](https://worldview.earthdata.nasa.gov/)
+* [NASA](https://worldview.earthdata.nasa.gov/)
   
 NASA | LANCE | FIRMS US/Canada
-*  ![](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-100.0,40.0,4.1z)
+*  [LANCE](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-100.0,40.0,4.1z)
 
 Climate TRACE
-*  ![](https://climatetrace.org/)
+*  [Climate Trace](https://climatetrace.org/)
 
 FEMA - national risk indicator
-* ![](https://hazards.fema.gov/nri/map)
+* [FEMA](https://hazards.fema.gov/nri/map)
 
 Windy: Waves
-*  ![](https://hazards.fema.gov/nri/map)
+*  [Windy](https://hazards.fema.gov/nri/map)
 
 ### Drought
 Drought monitor
-*  ![](https://droughtmonitor.unl.edu/)
+*  [Drought Monitor](https://droughtmonitor.unl.edu/)
 
 Drought.gov
-*  ![](https://www.drought.gov/)
+*  [Drought](https://www.drought.gov/)
 
 ### Other
 NOAA	
-*  ![](https://www.weather.gov/)
+*  [Weather Gov](https://www.weather.gov/)
 
 Resourcewatch
-*  ![](https://resourcewatch.org/dashboards/climate)
+*  ![Resourewatch](https://resourcewatch.org/dashboards/climate)
 
 OpenData Hawaii Gov
-*  ![](https://opendata.hawaii.gov/)
-*  ![](https://geoportal.hawaii.gov/)
+*  ![Opendata](https://opendata.hawaii.gov/)
+*  ![Geoportal](https://geoportal.hawaii.gov/)
 
 NASA worldview
-*  ![](https://worldview.earthdata.nasa.gov/?v=-161.58038707413584,16.861705037718462,-153.00129968484953,23.26341001358357&t=2025-06-21-T16%3A40%3A35Z)
+*  ![Worldview](https://worldview.earthdata.nasa.gov/?v=-161.58038707413584,16.861705037718462,-153.00129968484953,23.26341001358357&t=2025-06-21-T16%3A40%3A35Z)
 
