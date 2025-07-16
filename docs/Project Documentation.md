@@ -295,3 +295,186 @@ The web application may require the lists hardware requirements to ensure that o
 | **Browser**   | Latest version of Chrome, Firefox, or Edge     |
 | **Network**   | 10 Mbps broadband                              |
 
+Recommended Requirements:
+
+| **Component** | **Specifications** |
+|---------------|--------------------|
+| **CPU**       | Intel Core i5 (10th gen) **OR** AMD Ryzen 5 (3000 series) |
+| **RAM**       | 16 GB |
+| **Storage**   | 256 GB SSD |
+| **GPU**       | Integrated Intel or AMD **OR** Dedicated AMD Radeon or NVIDIA GeForce |
+| **OS**        | Windows 10, macOS 10.13+, or Ubuntu 20.04+ |
+| **Browser**   | Latest version of Chrome, Firefox, or Edge |
+| **Network**   | 25+ Mbps broadband |
+
+
+/
+
+
+## Lines of Effort
+* Determine API compatibility
+* Determine Data Sources
+* Access to Data Sources
+* Authentication and Authorization
+* API Keys
+* Database
+  
+***Line 1: Access + Data***
+* Way points (RAPIDS, FIRMS, 911/State, WebEOC, ARCGIS, NGB COP)
+***Line 2: Clarity of data points***
+* Waypoint placement (amount)
+* Dashboard information
+***Line 3: API Inter-compatibility***
+* Leaflet, Windy, FlightRadar24, BreezoMeter
+* Layers, Filters, Toggles
+***Line 4:  Security***
+* API Keys (encryption)
+* Data security
+* SQL database for login
+***Line 5: Systems + Equipment***
+* PAAS/Hosting, Domain
+  * Equipment handling (Specifications)
+* Security: DDoS, API-key provider, encryption
+* Regulations with sensitive data storage
+* Update Delays
+***Line 6: Data for ML & Waypoints based on high/possible risk***
+* Importing multiple datasets
+* Learning time for multiple cycles
+* Multiple iterations/models for data output
+* LLM and ML methods for consideration
+* Integrate into a API for dashboard as chatbot
+
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Lines%20of%20Effort.png)
+
+**Figure 15**   Lines of Effort - reference to military approach to milestones.
+
+Installation Guide
+Recommended Tools:
+Integrated Development Environment (IDE) like Microsoft VS Code 
+
+Website
+Prerequisites
+Python 3.8+
+Node.js + npm
+PostgreSQL
+
+Bootstrap
+`npm install bootstrap`
+Next.js
+`npx create-next-app@latest my-app
+cd my-app`
+React.js
+`npm install react react-dom next`
+
+Map
+Flask
+`python -m venv venv
+source venv/bin/activate
+pip install Flask Flask-Cors Flask-SQLAlchemy psycopg2-binary`
+Leaflet
+`npm install leaflet react-leaflet`
+
+Web Scraper Notification
+Python: BeautifulSoup + requests
+`pip install beautifulsoup4
+pip install requests`
+
+
+/
+
+
+## Host Server Requirements
+***Component	Specifications***
+## 🖥️ Server Specifications
+
+| **Component**     | **Specifications** |
+|-------------------|--------------------|
+| **CPU**           | 8–16 Core Intel Xeon Silver **OR** AMD EPYC |
+| **RAM**           | 64–128 GB |
+| **Storage**       | 1–2 TB NVMe SSD |
+| **Bandwidth**     | 1 Gbps dedicated uplink |
+| **OS**            | Windows Server 2022 **OR** Ubuntu 22.04 LTS |
+| **Database**      | PostgreSQL with SSD-backend |
+| **Security**      | Hardware firewall, DDoS protection, SSL, intrusion detection |
+| **Backup**        | Daily automated backups with offsite redundancy |
+| **Virtualization**| Docker or Kubernetes support |
+| **Compliance**    | FedRAMP or NIST 800-53 |
+
+
+/
+
+
+## Schedule For JOC HING Firewatch Project
+***Schedule For Weeks 1 - 7***
+***Week 1: June 23 - 26***
+
+**Framework Planning**
+* Learn the programs NGB COP , WebEOC & ARCGIS
+* API access and learning
+* API compatibility
+* Access to State Databases
+  * Police Reports
+  * Fire Department Reports
+  * Access to data from all counties in Hawaii
+* Base map planning
+  * Filters
+    * Air Traffic (Helicopters) – identifiers, response type
+  * Air Quality, drought, and current fires
+  * Possible ETA for emergency services
+***Week 2: June 30 – July 4***
+**Sources Input Review**
+* Review of sources
+  * From NASA, State, and government entities
+  * Review delayed update time frames, and currently updates sources
+  * Access to State data (mostly that are by request only)
+* Compatibility of information
+  * Overlays
+  * Filters
+  * Website layout and design
+***Week 3: July 7 - 11***
+
+**Implementation and Design**
+* Inter piecing the APIs to the desired selected software solution
+*  Determine which are compatible and tweak performance from pulled data
+* Cycle and prototyping
+  * Graphic Design Layout for expected outcome
+***Week 4: July 14 - 17***
+
+**Security, Delays, Problems, and Backup Plan**
+* Determine Security gaps
+  * APIs, DDoS, Service Delays, Server load-balancing
+* Delays
+  * Timed delays due to data pulls
+* Problems
+  * Create a problem statement
+    * Delays in coding
+    * Problems in API keys
+    * Problems in API compatibility
+    * Complications from the proposed software solutions for end-product
+* Backup plan
+  * Find development need to work on the second proposed software solution if the first does not meet expectations
+  * Proposed time frame for development on this system
+***Week 5 & 6: July 21-  30***
+
+**Finalize & Tweak**
+* Make tweaks to coding structure
+* Tweaks for graphical representation
+* Prepare problem statement
+***Week 6: July 28 - 31***
+**Prepare Presentation**
+* Make slideshows
+* Snapshot final-end solution
+* Prepare showcase for prototype
+* Relate to other projects and current solutions in the market or currently being used
+* Showcase how project improves
+
+Address:
+* Mission Objective
+* Input Sources, Output Sources
+* Scope of Project
+* Organization
+* Supporting Members
+
+## Proposed Budget
+
+
