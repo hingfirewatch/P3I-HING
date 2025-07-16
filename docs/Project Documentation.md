@@ -352,32 +352,32 @@ Installation Guide
 Recommended Tools:
 Integrated Development Environment (IDE) like Microsoft VS Code 
 
-Website
-Prerequisites
-Python 3.8+
-Node.js + npm
-PostgreSQL
+***Website***
+Prerequisites: <br>
+Python 3.8+ <br>
+Node.js + npm <br>
+PostgreSQL <br>
 
-Bootstrap
+Bootstrap <br>
 `npm install bootstrap`
-Next.js
+Next.js <br>
 `npx create-next-app@latest my-app` <br>
 `cd my-app`
-React.js
+React.js <br>
 `npm install react react-dom next`
 
-Map
-Flask
+***Map***
+Flask <br>
 `python -m venv venv` <br>
 `source venv/bin/activate` <br>
-`pip install Flask Flask-Cors Flask-SQLAlchemy psycopg2-binary`
-Leaflet
-`npm install leaflet react-leaflet`
+`pip install Flask Flask-Cors Flask-SQLAlchemy psycopg2-binary` <br>
+Leaflet <br>
+`npm install leaflet react-leaflet` <br>
 
-Web Scraper Notification
-Python: BeautifulSoup + requests
+Web Scraper Notification <br>
+Python: BeautifulSoup + requests <br>
 `pip install beautifulsoup4` <br>
-`pip install requests`
+`pip install requests` <br>
 
 
 /
