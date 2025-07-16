@@ -171,8 +171,9 @@ A popup bar for chatting, page for team/group assignment, shared resources, and 
 
 **Figure 12**   The diagram shows the respective programming languages, libraries, and packages that will be required in the front-end and back-end of the project.
 
+
 /
-/
+
 
 ## API Framework
 
