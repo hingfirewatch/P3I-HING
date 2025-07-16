@@ -71,7 +71,7 @@ As a note this document will mix and match the terms: web solution, web applicat
 
 This document was created under the Pacific Intelligence Innovation Imitative (P3I): VICEROY MAVEN HING group.
 ![](https://hawaiip3i.org/wp-content/uploads/2023/07/HawaiiP3I-logo.png)
-<img src="(https://hawaiip3i.org/wp-content/uploads/2023/07/HawaiiP3I-logo.png)" alt="" width="100" />
+<img src="https://hawaiip3i.org/wp-content/uploads/2023/07/HawaiiP3I-logo.png" alt="" width="100" />
 
 
 ## Mission Objective
