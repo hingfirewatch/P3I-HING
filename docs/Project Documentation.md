@@ -212,7 +212,7 @@ A popup bar for chatting, page for team/group assignment, shared resources, and 
 * Weather, Air Quality, and Fires
   
 AirNow Fire and Smoke Map
-* ![AirNow](https://fire.airnow.gov/#8.89/21.3814/-157.6607)
+* [AirNow](https://fire.airnow.gov/#8.89/21.3814/-157.6607)
   
 NASA | LANCE | FIRMS
 * [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@-157.89,21.41,10.53z)
