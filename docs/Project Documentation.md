@@ -4,8 +4,9 @@
 
 ### TABLE OF CONTENTS
 
-/
-/
+
+==============================================================
+
 
 Introduction
 
@@ -132,5 +133,124 @@ This layout now shows a overlay for map layers using the layers button on the ma
 
 **Figure 5**   Layout from selecting a point and the overlay for data
 
+**Finalized Dashboard**
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Screenshot%202025-07-15%20102306.png)
 
+**Figure 6**  Actual design layout for dashboard
+
+**Alert Form**
+![placeholder]()
+
+**Figure 7**  Alert Creation Dashboard
+
+**Incident and News Pages Section**
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Incident%20and%20News%20Page%20Section.png)
+
+**Figure 8**  The bottom left section showcasing recent incidents from pulled reports.
+
+**Active Alerts**
+
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Active%20Alerts.png)
+
+Figure 9   Right-side alert page listing recently made notifications.
+
+**Login Page**
+
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Login.png)
+
+**Planned Features**
+
+A popup bar for chatting, page for team/group assignment, shared resources, and assigned Microsoft Teams groups.
+
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Assignments-Page.png)
+
+**Figure 11**   Assignment page for each assigned group following WebEOC format for group folder assignment, includes staff and contact details, a shared resource folder for each assigned group, a description for group mission objective or task, and an assigned Microsoft Teams link. Additionally, a chat pop-up for communications between members and buttons for web pages and organizational resources.
+
+## Website Framework
+
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Website%20Framework.png)
+
+**Figure 12**   The diagram shows the respective programming languages, libraries, and packages that will be required in the front-end and back-end of the project.
+
+/
+/
+
+## API Framework
+
+***FIRMS API***
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/FIRMS%20API.png)
+
+**Figure 13**   NASA FIRMS API diagram 
+
+***Windy API***
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Windy%20API.png)
+
+**Figure 14**   Windy API diagram
+
+***ADS-B Exchange API***
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/ADS-B%20Exchange%20API.png)
+
+**Figure 15**   ADS-B Exchange API diagram 
+
+***National Weather Service API***
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/National%20Weather%20Service%20(NWS).png)
+
+**Figure 16**   NWS API diagram 
+
+
+/
+/
+
+
+## Data Sources
+* Fire Guard
+* WebEOC
+* Fire Department (all counties)
+* Police Data (all counties)
+* County activity and indicators
+* Flight Trackers
+* Social Media
+* Weather, Air Quality, and Fires
+  
+AirNow Fire and Smoke Map
+* ![AirNow](https://fire.airnow.gov/#8.89/21.3814/-157.6607)
+  
+NASA | LANCE | FIRMS
+* ![FIRMS](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@-157.89,21.41,10.53z)
+  
+NASA Worldview
+* ![](https://worldview.earthdata.nasa.gov/)
+  
+NASA | LANCE | FIRMS US/Canada
+*  ![](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-100.0,40.0,4.1z)
+
+Climate TRACE
+*  ![](https://climatetrace.org/)
+
+FEMA - national risk indicator
+* ![](https://hazards.fema.gov/nri/map)
+
+Windy: Waves
+*  ![](https://hazards.fema.gov/nri/map)
+
+### Drought
+Drought monitor
+*  ![](https://droughtmonitor.unl.edu/)
+
+Drought.gov
+*  ![](https://www.drought.gov/)
+
+### Other
+NOAA	
+*  ![](https://www.weather.gov/)
+
+Resourcewatch
+*  ![](https://resourcewatch.org/dashboards/climate)
+
+OpenData Hawaii Gov
+*  ![](https://opendata.hawaii.gov/)
+*  ![](https://geoportal.hawaii.gov/)
+
+NASA worldview
+*  ![](https://worldview.earthdata.nasa.gov/?v=-161.58038707413584,16.861705037718462,-153.00129968484953,23.26341001358357&t=2025-06-21-T16%3A40%3A35Z)
 
