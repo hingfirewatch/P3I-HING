@@ -4,30 +4,54 @@
 
 ### TABLE OF CONTENTS
 
-Introduction	
+Introduction
+
 Mission Objective	
+
 Problem Statement	
+
 Solution Compatibility	
+
 Functional Requirements	
+
 Interface Requirements	
+  
   User Interface	
+  
   Proposed Layout	
+  
   Finalized Dashboard	
+  
   Alert Form	
+  
   Incident and News Page Section	
+  
   Active Alerts	
+  
   Login Page	
+
 Planned Features	
+
 API Framework	
+
 Data Sources	
+
 Security, Maintenance, Reliability Overview	
+  
   Security	
+  
   Maintenance	
+  
   Reliability	
+
 Lines of Effort	
+
 Installation Guide	
+
 Host Server Requirements	
+
 Schedule For JOC HING Firewatch Project	
+
 Proposed Budget	
 
 ## Introducion
