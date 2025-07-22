@@ -67,7 +67,7 @@
 *	Integrate into a API for dashboard as chatbot
 
 
-![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Lines%20of%20Effort.png)
+![Web App Diagram](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Lines%20of%20Effort.png)
 
 
 
@@ -93,7 +93,7 @@
 * API Keys (Locked sources of data)
 
 ## **Line 5**: Data for ML & Waypoints based on high/possible risk
-![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Lines%20of%20Effort%20(Primary).png)
+![WebEOC Diagram](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Lines%20of%20Effort%20(WebEOC).png)
 
 ## Outcome: Map with points with an alert notification or system.
 
