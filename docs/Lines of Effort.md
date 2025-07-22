@@ -1,4 +1,4 @@
-# **Custom Web-based Solution Planning**
+# **Custom Web-based Application Planning**
 
 > [!IMPORTANT]
 > This will be the main route moving forward.
@@ -67,7 +67,7 @@
 *	Integrate into a API for dashboard as chatbot
 
 
-![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Lines%20of%20Effort%20(Backup).png)
+![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Lines%20of%20Effort.png)
 
 
 
