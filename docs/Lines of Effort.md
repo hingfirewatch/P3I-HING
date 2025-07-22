@@ -95,5 +95,5 @@
 ## **Line 5**: Data for ML & Waypoints based on high/possible risk
 ![alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Lines%20of%20Effort%20(Primary).png)
 
-## Outcome: Map with points with a alert notification or system.
+## Outcome: Map with points with an alert notification or system.
 
