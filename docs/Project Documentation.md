@@ -142,7 +142,7 @@ This layout now shows a overlay for map layers using the layers button on the ma
 **Figure 6**  Actual design layout for dashboard
 
 **Alert Form**
-![placeholder]()
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Alert%20Form.png)
 
 **Figure 7**  Alert Creation Dashboard
 
