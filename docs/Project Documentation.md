@@ -305,6 +305,7 @@ Hawai'i / Big Island
  * [Police](https://www.hawaiipolice.gov/)
    
 Kauai
+
  * [Fire Department](https://www.kauai.gov/Government/Departments-Agencies/Fire-Department)
    
  * [Police Department](https://www.kauai.gov/Government/Departments-Agencies/Police-Department)
