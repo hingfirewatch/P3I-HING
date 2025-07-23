@@ -300,7 +300,7 @@ Oahu
    
 Hawai'i / Big Island
 
- * [Fire Department]([https://fire.honolulu.gov/](https://www.hawaiicounty.gov/departments/fire)
+ * [Fire Department](https://www.hawaiicounty.gov/departments/fire)
   
  * [Police](https://www.hawaiipolice.gov/)
    
