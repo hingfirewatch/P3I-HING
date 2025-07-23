@@ -136,7 +136,8 @@ This layout now shows a overlay for map layers using the layers button on the ma
 **Figure 5**   Layout from selecting a point and the overlay for data
 
 **Finalized Dashboard**
-![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Screenshot%202025-07-15%20102306.png)
+
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/THFIC.png)
 
 **Figure 6**  Actual design layout for dashboard
 
@@ -146,7 +147,10 @@ This layout now shows a overlay for map layers using the layers button on the ma
 **Figure 7**  Alert Creation Dashboard
 
 **Incident and News Pages Section**
+
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Incident%20and%20News%20Page%20Section.png)
+
+
 
 **Figure 8**  The bottom left section showcasing recent incidents from pulled reports.
 
@@ -155,6 +159,8 @@ This layout now shows a overlay for map layers using the layers button on the ma
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Active%20Alerts.png)
 
 Figure 9   Right-side alert page listing recently made notifications.
+
+
 
 **Login Page**
 
