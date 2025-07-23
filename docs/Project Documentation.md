@@ -221,27 +221,34 @@ A popup bar for chatting, page for team/group assignment, shared resources, and 
 * Weather, Air Quality, and Fires
   
 AirNow Fire and Smoke Map
+
 * [AirNow](https://fire.airnow.gov/#8.89/21.3814/-157.6607)
   
 NASA | LANCE | FIRMS
+
 * [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@-157.89,21.41,10.53z)
   
 NASA Worldview
+
 * [NASA](https://worldview.earthdata.nasa.gov/)
   
 NASA | LANCE | FIRMS US/Canada
+
 *  [LANCE](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-100.0,40.0,4.1z)
 
 Climate TRACE
+
 *  [Climate Trace](https://climatetrace.org/)
 
 FEMA - national risk indicator
 * [FEMA](https://hazards.fema.gov/nri/map)
 
 Windy: Waves
+
 *  [Windy](https://hazards.fema.gov/nri/map)
 
 ALERTWest
+
 * [ALERTWest](https://alertwest.live/)
 
 ### Aerial Tracking
@@ -250,9 +257,11 @@ ADS-B Exchange
 * [ADS-B Exchange](https://www.adsbexchange.com/data/rest-api-samples/)
 
 OpenSky Network
+
 * [OpenSky](https://openskynetwork.github.io/opensky-api/)
 
 FlightRadar24
+
 * [FlightRadar24](https://www.flightradar24.com/51.47,0.46/6)
 
 ### Drought
@@ -260,6 +269,7 @@ Drought monitor
 *  [Drought Monitor](https://droughtmonitor.unl.edu/)
 
 Drought.gov
+
 *  [Drought](https://www.drought.gov/)
 
 ### Other
@@ -299,6 +309,19 @@ Kauai
    
  * [Police Department](https://www.kauai.gov/Government/Departments-Agencies/Police-Department)
 
+Hawaii News Now
+
+* [Hawaii News Now](https://www.hawaiinewsnow.com/news/)
+
+KITV - Island News
+
+* [KITV](https://www.kitv.com/news/)
+
+KHON2
+
+* [KHON2](https://www.khon2.com/local-news/)
+
+  
 /
 /
 
