@@ -244,6 +244,17 @@ Windy: Waves
 ALERTWest
 * [ALERTWest](https://alertwest.live/)
 
+### Aerial Tracking
+ADS-B Exchange
+
+* [ADS-B Exchange](https://www.adsbexchange.com/data/rest-api-samples/)
+
+OpenSky Network
+* [OpenSky](https://openskynetwork.github.io/opensky-api/)
+
+FlightRadar24
+* [FlightRadar24](https://www.flightradar24.com/51.47,0.46/6)
+
 ### Drought
 Drought monitor
 *  [Drought Monitor](https://droughtmonitor.unl.edu/)
@@ -265,6 +276,28 @@ OpenData Hawaii Gov
 NASA worldview
 *  [Worldview](https://worldview.earthdata.nasa.gov/?v=-161.58038707413584,16.861705037718462,-153.00129968484953,23.26341001358357&t=2025-06-21-T16%3A40%3A35Z)
 
+
+### Scraped Sources
+Oahu
+
+ * [Fire Department](https://fire.honolulu.gov/)
+
+ * [Police Department](https://www.honolulupd.org/)
+
+**Maui, Lanai, and Kahoolawe**
+
+ * [Fire & Police Department](https://www.mauicounty.gov/)
+   
+Hawai'i / Big Island
+
+ * [Fire Department]([https://fire.honolulu.gov/](https://www.hawaiicounty.gov/departments/fire)
+  
+ * [Police](https://www.hawaiipolice.gov/)
+   
+Kauai
+ * [Fire Department](https://www.kauai.gov/Government/Departments-Agencies/Fire-Department)
+   
+ * [Police Department](https://www.kauai.gov/Government/Departments-Agencies/Police-Department)
 
 /
 /
