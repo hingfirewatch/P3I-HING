@@ -89,17 +89,28 @@ As a web solution, this platform was intended to target a multitude of devices. 
 \
 
 ## Functional Requirements
-1.Data fed through the solution may require safeguarding such a weather data collected by federal systems. 
+1.Data fed through the solution may require safeguarding such a weather data collected by federal systems.
+
   1.Confidentiality: Medium
+  
   2.Some data collected is restricted to project-only usage and is limited by fetch limitations.
+  
 2.These can involve API keys that will need to be hidden or obfuscated.
+
   1.NOTE: API keys or tokens are likened to an identifier used to authenticate requests to a service or database.
+  
 3.The web solution will require access to the internet (if hosted by a third-party cloud) or a system that will require security and access controls if self-hosted.
+
   1.Integrity: High, Availability: High
+  
   2.For third-party hosting, there will be contractual agreements regarding the sensitivity of data and its handling of the data.
+  
   3.Self-hosting will require controls over the network, system security, physical controls, and technical support.
+  
 4.Both will require communication with federal, state, and third parties with API key access and implementation of current and future technologies.
+
   1.Additional alerts and notifications in the system can be manipulated and created through the interactive alert form on the web solution.
+  
   2.This feature can be locked to users registered within the software solution.
 
 \
