@@ -408,7 +408,7 @@ Recommended Requirements:
 * Regulations with sensitive data storage
 * Update Delays
 > [!Note]
-> Due to time limitations and scope Line 6 may not be implemented
+> Due to time limitations and scope, Line 6 may not be implemented
 > 
 ***Line 6: Data for ML & Waypoints based on high/possible risk***
 * Importing multiple datasets
@@ -462,7 +462,7 @@ Python: BeautifulSoup + requests <br>
 
 ## Host Server Requirements
 ***Component	Specifications***
-## 🖥️ Server Specifications
+## Server Specifications
 
 | **Component**     | **Specifications** |
 |-------------------|--------------------|
