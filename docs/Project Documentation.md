@@ -89,29 +89,35 @@ As a web solution, this platform was intended to target a multitude of devices. 
 \
 
 ## Functional Requirements
-1. Data fed through the solution may require safeguarding such a weather data collected by federal systems.
 
-  - Confidentiality: Medium
-  
-  - Some data collected is restricted to project-only usage and is limited by fetch limitations.
-  
-2.These can involve API keys that will need to be hidden or obfuscated.
+1. **Data Safeguarding Requirements**
+    - Data fed through the solution may require safeguarding, such as weather data collected by federal systems.
+    - **Confidentiality:** Medium  
+    - Some data collected is restricted to project-only usage and may be subject to fetch limitations.
 
-  - NOTE: API keys or tokens are likened to an identifier used to authenticate requests to a service or database.
-  
-3. The web solution will require access to the internet (if hosted by a third-party cloud) or a system that will require security and access controls if self-hosted.
+2. **API Key Security**
+    - These systems may involve API keys that must be hidden or obfuscated.
+    - **NOTE:** API keys or tokens act as identifiers used to authenticate requests to a service or database.
 
-  - Integrity: High, Availability: High
-  
-  - For third-party hosting, there will be contractual agreements regarding the sensitivity of data and its handling of the data.
-  
-  - Self-hosting will require controls over the network, system security, physical controls, and technical support.
-  
-4. Both will require communication with federal, state, and third parties with API key access and implementation of current and future technologies.
+3. **Hosting Requirements and Access Control**
+    - The web solution will require internet access:
+        - If hosted via a third-party cloud provider  
+        - Or hosted internally on a system requiring proper security and access controls
+    - **Integrity:** High  
+    - **Availability:** High  
+    - For third-party hosting, contractual agreements will govern data sensitivity and handling procedures.
 
-  - Additional alerts and notifications in the system can be manipulated and created through the interactive alert form on the web solution.
-  
-  - This feature can be locked to users registered within the software solution.
+4. **Self-Hosting Considerations**
+    - Self-hosted deployments will require:
+        - Network and firewall configuration
+        - System security and updates
+        - Physical access control
+        - Ongoing technical support
+
+5. **Interagency Communication & Notifications**
+    - Communication will involve federal, state, and third-party actors who use and manage API key access.
+    - Additional alerts and notifications can be triggered through an interactive web form.
+    - This alerting system can be restricted to registered users within the platform.
 
 \
 \
@@ -127,7 +133,7 @@ These elements can viewed under the proposed layout section below.
 
 **Figure 1**   Backup layout for custom-made website
 
-Backup layout for custom-made website The layout will have a news report message slider on the top left. It will contain social media posts about fires limited to the islands in addition with posts made by state departments like the HPD (police) and HFD (fire). The lower left notification section will include major fires within the islands. The top left section contains the map and map buttons for layers, filters, and additional information. The navigation bar right below the map contains the toggle overlay for the FlightTracker24 viewer and a time slot bar for past events. On the bottom right we finally have the emergency transport vehicle notification section. This section can filter per island which has been revised in Figure 2 with per island button filters. 
+The proposed layout will have a news report message slider on the top left. It will contain social media posts about fires limited to the islands in addition with posts made by state departments like the HPD (police) and HFD (fire) and surrounding counties. The lower left notification section will include major fires within the islands. The top left section contains the map and map buttons for layers, filters, and additional information. The navigation bar right below the map contains the toggle overlay for the FlightTracker24 viewer and a time slot bar for past events. On the bottom right we finally have the emergency transport vehicle notification section, additionally there will be a filter per island.
 
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/concept/Backup-Template%20Layout%20Overlay4.png)
 
