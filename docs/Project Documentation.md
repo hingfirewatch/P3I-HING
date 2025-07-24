@@ -563,7 +563,7 @@ Cancel anytime
 Need: This API has multiple elements that can feed through data such as satellite, radar, wind, temperature, clouds, air and UV, and drought.
 AeroAPI - $ 1000 / month | $12,000 / year
 
-###H osting
+### Hosting
 #### DigitalOcean - $24 / month | $288 / year
 Need: A place to host the web application. Bypass the process and procedures from hosting on-premise.
 
