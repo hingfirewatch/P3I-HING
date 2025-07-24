@@ -552,4 +552,27 @@ Address:
 
 ## Proposed Budget
 
+###Tracking
+#### FlightRadar24 - $900 / month | $10,800 / year
+Cancel anytime
+Need: Due to limitations of other flight tracking APIs, this API would give results of not only public but private and military based aerial vehicles that are easy to implement with this API.
+* In addition FlightRadar24 provides instant API Key access instead of requesting which may takes days or weeks to arrive.
+
+#### Windy - $2.08 / month | $24.99 / year
+Cancel anytime
+Need: This API has multiple elements that can feed through data such as satellite, radar, wind, temperature, clouds, air and UV, and drought.
+AeroAPI - $ 1000 / month | $12,000 / year
+
+###H osting
+#### DigitalOcean - $24 / month | $288 / year
+Need: A place to host the web application. Bypass the process and procedures from hosting on-premise.
+
+| Solution Name   | Cost Per Month | Cost Per Year |
+|----------------|----------------|----------------|
+| FlightRadar24  | $900.00        | $10,800.00     |
+| Windy          | $2.08          | $24.99         |
+| AeroAPI        | $1,000.00      | $12,000.00     |
+| DigitalOcean   | $24.00         | $288.00        |
+
+
 
