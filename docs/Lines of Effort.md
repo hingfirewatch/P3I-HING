@@ -52,7 +52,7 @@
 *	Update Delays
 
 > [!WARNING]
-> Line 6 from the Lines of Effort (LOE), may not be implemented due to project scope and time crunch.
+> Line 6 may not be implemented due to project scope and time crunch.
 
 ## **Line 6**: Data for ML & Waypoints based on high/possible risk
 
