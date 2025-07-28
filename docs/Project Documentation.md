@@ -268,33 +268,61 @@ Map alert filter for specific statuses based on severity rating, type of fire, a
 
 ### View Filter
 
-![]()
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/View%20Filters.png)
 
-**Figure 14** | Toggle-able filter menu for map legend (heat map, satellite sources, and fire detection confidence), forecast for selected points, AlertWest panel (landscape fire cameras), and a backup Flight Tracker.
-
-### Legend
-
-### View Filter
+**Figure 16** | Toggle-able filter menu for map legend (heat map, satellite sources, and fire detection confidence), forecast for selected points, AlertWest panel (landscape fire cameras), and a backup Flight Tracker.
 
 ### Legend
+
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Legend.png)
+
+**Figure 18** | Map legend showcasing heat map (Windy), satellite sources from NASA FIRMs, fire detection confidence from NASA VIIRS and MODIS satellite mapping, and also a brief metric explanation of Fire Radiative Power (FRP).
 
 ### Point Forecast
 
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Forecast%20Point.png)
+
+**Figure 19** | A select point showing NASA FIRMs data and a forecast at the current time.
+
 ### AlertWest
+
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/AlertWest.png)
+
+**Figure 20** | A toggle-able and readjust-able panel for AlertWest that focuses on current and possible alerts using AI detection with landscape camera views.
 
 ### Flight Tracker
 
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Flight%20Tracker.png)
+
+**Figure** | 21 A toggle-able and readjust-able panel for flight tracking based on ADS-B Exchange. The service detects military, public, and private aerial vehicles. Addition information consists of vehicle callsign, flight path, altitude, signal source, and squawk code channels.
+
 # Dashboard Interface
 
-## Alert Forms
+## Alert Form
+
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Alert%20Form.png)
+
+**Figure** | 22 Alert Creation Dashboard
 
 ## Active Alerts
 
-## Login Page**
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Active%20Alerts.png)
+
+**Figure 23** | Right-side alert page listing recently made notifications.
 
 ## Incident and News Page Section
 
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Incident%20and%20News%20Page%20Section.png)
+
+**Figure 24** | The bottom left section showcasing recent incidents from pulled reports.
+
+## Login Page**
+
+Users will require to make an account to access mission essential features like alert notifications.
+
 <img src="https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Login.png" alt="" width="400" />
+
+**Figure 25** | Login Portal
 
 **Planned Features**
 
@@ -302,7 +330,9 @@ A popup bar for chatting, page for team/group assignment, shared resources, and 
 
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Assignments-Page.png)
 
-**Figure 11** | Assignment page for each assigned group following WebEOC format for group folder assignment, includes staff and contact details, a shared resource folder for each assigned group, a description for group mission objective or task, and an assigned Microsoft Teams link. Additionally, a chat pop-up for communications between members and buttons for web pages and organizational resources.
+**Figure 26** | Assignment page for each assigned group following WebEOC format for group folder assignment, includes staff and contact details, a shared resource folder for each assigned group, a description for group mission objective or task, and an assigned Microsoft Teams link. Additionally, a chat pop-up for communications between members and buttons for web pages and organizational resources.
+
+An export function to Alerts Form to allow HING JOC faulty to allow easy input for other third-party forms such as NGP COP, WebEOC, and other forms following the standard operation procedures (SOP).
 
 ## Website Framework
 
