@@ -251,14 +251,20 @@ Figure 9 | Right-side alert page listing recently made notifications.
 Figure 9 Default overlay based on Windy.
 
 ### ESRI
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/ESRI.png)
 
 ### Google Satellite
 
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Google%20Satellite.png)
+
 ### Google Terrain
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Google%20Terrain.png)
 
 ### Google Flat Terrain
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Google%20Terrain.png)
 
 ### OpenStreetMap
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/OSM.png)
 
 ## Map Alert Filters
 
