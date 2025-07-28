@@ -169,10 +169,11 @@ As a web solution, this platform was intended to target a multitude of devices. 
 # Interface Requirements
 ## User Interface
 The dashboard will be implemented to follow a three or four-quadrant section appearance. The biggest and main component will be the interactive map that will be at the top. Followed by a notification and alert section that will be on the side. The last section which could be considered is a notification section dedicated to the nearest aerial vehicles, filtered to each island.
-The map will contain different layers. The two main views will be a flat and a satellite representation. There will also be multiple layers to track temperature/UV, points of interest (fires), wind direction, and air pressure.
-These elements can viewed under the proposed layout section below.
 
-### **Proposed Layout**
+The map will contain different layers. The two main views will be a flat and a satellite representation. There will also be multiple layers to track temperature/UV, points of interest (fires), wind direction, and air pressure.
+These elements can be viewed under the proposed layout section below.
+
+## **Proposed Layout**
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/concept/Backup-Template%20Layout.png)
 
 **Figure 1** | Backup layout for custom-made website
@@ -197,17 +198,27 @@ This layout now shows a overlay for map layers using the layers button on the ma
 
 **Figure 5** | Layout from selecting a point and the overlay for data
 
-**Finalized Dashboard**
+# Finalized Dashboard
 
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/THFIC.png)
 
-**Figure 6**  Actual design layout for dashboard
+**Figure 6** | Actual design layout for dashboard
+
+# Map Interface
+
+## Map Filters
+
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Map%20Filters.png)
+
+Located at the top right of the Live Map View is the map filter section.
+
+**Figure 7** | Map filters for map. Features for different map base layers, filters for different user-created alerts, and a toggle for flight tracking extensions and other features like legend and the forecast for a set point.
 
 **Alert Form**
 
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Alert%20Form.png)
 
-**Figure 7**  Alert Creation Dashboard
+**Figure 7** | Alert Creation Dashboard
 
 **Incident and News Pages Section**
 
@@ -215,13 +226,13 @@ This layout now shows a overlay for map layers using the layers button on the ma
 
 
 
-**Figure 8**  The bottom left section showcasing recent incidents from pulled reports.
+**Figure 8** | The bottom left section showcasing recent incidents from pulled reports.
 
 **Active Alerts**
 
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Active%20Alerts.png)
 
-Figure 9   Right-side alert page listing recently made notifications.
+Figure 9 | Right-side alert page listing recently made notifications.
 
 
 
@@ -235,13 +246,13 @@ A popup bar for chatting, page for team/group assignment, shared resources, and 
 
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Assignments-Page.png)
 
-**Figure 11**   Assignment page for each assigned group following WebEOC format for group folder assignment, includes staff and contact details, a shared resource folder for each assigned group, a description for group mission objective or task, and an assigned Microsoft Teams link. Additionally, a chat pop-up for communications between members and buttons for web pages and organizational resources.
+**Figure 11** | Assignment page for each assigned group following WebEOC format for group folder assignment, includes staff and contact details, a shared resource folder for each assigned group, a description for group mission objective or task, and an assigned Microsoft Teams link. Additionally, a chat pop-up for communications between members and buttons for web pages and organizational resources.
 
 ## Website Framework
 
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Website%20Framework.png)
 
-**Figure 12**   The diagram shows the respective programming languages, libraries, and packages that will be required in the front-end and back-end of the project.
+**Figure 12** | The diagram shows the respective programming languages, libraries, and packages that will be required in the front-end and back-end of the project.
 
 
 /
@@ -252,22 +263,22 @@ A popup bar for chatting, page for team/group assignment, shared resources, and 
 ***FIRMS API***
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/FIRMS%20API.png)
 
-**Figure 13**   NASA FIRMS API diagram 
+**Figure 13** | NASA FIRMS API diagram 
 
 ***Windy API***
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Windy%20API.png)
 
-**Figure 14**   Windy API diagram
+**Figure 14** | Windy API diagram
 
 ***ADS-B Exchange API***
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/ADS-B%20Exchange%20API.png)
 
-**Figure 15**   ADS-B Exchange API diagram 
+**Figure 15** | ADS-B Exchange API diagram 
 
 ***National Weather Service API***
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/National%20Weather%20Service%20(NWS).png)
 
-**Figure 16**   NWS API diagram 
+**Figure 16** | NWS API diagram 
 
 
 /
