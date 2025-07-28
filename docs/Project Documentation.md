@@ -208,19 +208,15 @@ This layout now shows a overlay for map layers using the layers button on the ma
 
 ## Map Filters
 
-![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Map%20Filters.png)
-
 Located at the top right of the Live Map View is the map filter section.
+
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Map%20Filters.png)
 
 **Figure 7** | Map filters for map. Features for different map base layers, filters for different user-created alerts, and a toggle for flight tracking extensions and other features like legend and the forecast for a set point.
 
 ## NASA FIRMs Data Points
 
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/FIRMs%20Points%20(close-up).png)
-
-**Alert Form**
-
-![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Alert%20Form.png)
 
 **Figure 8** | FIRMs API-supplied points.
 
@@ -267,10 +263,8 @@ Located at the top right of the Live Map View is the map filter section.
 Map alert filter for specific statuses based on severity rating, type of fire, and tags based on current alert conditions like fires that are active, being investigated, resolved, or were a false alarm
 
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Map%20Alert%20Filters.png)
-<img src="https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Map%20Alert%20Filters.png" alt="" width="600" height="400">
 
-
-Figure 13 |  Another flat map view based on OpenStreetMap (OSM).
+**Figure 16** | Alert filters on the map interface.
 
 ### View Filter
 
