@@ -176,7 +176,7 @@ These elements can be viewed under the proposed layout section below.
 ## **Proposed Layout**
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/concept/Backup-Template%20Layout.png)
 
-**Figure 1** | Backup layout for custom-made website
+**Figure 1** | Layout for custom-made website
 
 The proposed layout will have a news report message slider on the top left. It will contain social media posts about fires limited to the islands in addition with posts made by state departments like the HPD (police) and HFD (fire) and surrounding counties. The lower left notification section will include major fires within the islands. The top left section contains the map and map buttons for layers, filters, and additional information. The navigation bar right below the map contains the toggle overlay for the FlightTracker24 viewer and a time slot bar for past events. On the bottom right we finally have the emergency transport vehicle notification section, additionally there will be a filter per island.
 
