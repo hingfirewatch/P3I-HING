@@ -214,17 +214,25 @@ Located at the top right of the Live Map View is the map filter section.
 
 **Figure 7** | Map filters for map. Features for different map base layers, filters for different user-created alerts, and a toggle for flight tracking extensions and other features like legend and the forecast for a set point.
 
+## NASA FIRMs Data Points
+
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/FIRMs%20Points.png)
+
 **Alert Form**
 
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Alert%20Form.png)
 
-**Figure 7** | Alert Creation Dashboard
+**Figure 8** | FIRMs API-supplied points.
+
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Forecast%20Point.png)
+
+**Figure 9** | Detailed overlay of points.
+
+## Map Base Layers
 
 **Incident and News Pages Section**
 
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Incident%20and%20News%20Page%20Section.png)
-
-
 
 **Figure 8** | The bottom left section showcasing recent incidents from pulled reports.
 
@@ -234,9 +242,59 @@ Located at the top right of the Live Map View is the map filter section.
 
 Figure 9 | Right-side alert page listing recently made notifications.
 
+## Map Base Layers
 
+### Weather
 
-**Login Page**
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Weather%20Base%20Layer.png)
+
+Figure 9 Default overlay based on Windy.
+
+### ESRI
+
+### Google Satellite
+
+### Google Terrain
+
+### Google Flat Terrain
+
+### OpenStreetMap
+
+## Map Alert Filters
+
+Map alert filter for specific statuses based on severity rating, type of fire, and tags based on current alert conditions like fires that are active, being investigated, resolved, or were a false alarm
+
+![]()
+
+Figure 13 |  Another flat map view based on OpenStreetMap (OSM).
+
+### View Filter
+
+![]()
+
+**Figure 14** | Toggle-able filter menu for map legend (heat map, satellite sources, and fire detection confidence), forecast for selected points, AlertWest panel (landscape fire cameras), and a backup Flight Tracker.
+
+### Legend
+
+### View Filter
+
+### Legend
+
+### Point Forecast
+
+### AlertWest
+
+### Flight Tracker
+
+# Dashboard Interface
+
+## Alert Forms
+
+## Active Alerts
+
+## Login Page**
+
+## Incident and News Page Section
 
 <img src="https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Login.png" alt="" width="400" />
 
