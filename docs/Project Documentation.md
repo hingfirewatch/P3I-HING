@@ -1,6 +1,5 @@
-# Project Documentation
-## HING JOC Wildfire Incident Project
-### July 15, 2015
+![title](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Document%20Title.png)
+### July 28, 2015
 
 ==============================================================
 
