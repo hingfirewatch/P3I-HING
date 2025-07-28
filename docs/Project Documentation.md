@@ -21,23 +21,59 @@ Interface Requirements
   
   - User Interface	
   
-  - Proposed Layout	
+    - Proposed Layout	
   
-  - Finalized Dashboard	
+    - Finalized Dashboard
+   
+  - Map Interface
+
+    - Map Filters
+
+    - NASA FIRMS Data Points
+
+    - Map Base Layers
+   
+      - Weather
+
+      - ESRI
+
+      - Google Satellite
+
+      - Google Terrain
+
+      - Google Flat Terrain
+     
+      - OpenStreetMap   
+
+  - Map Alert Filters
+
+    - View Filter
+   
+    - Legend
+   
+    - Point Forecast
+   
+    - AlertWest
+   
+    - Flight Tracker
   
-  - Alert Form	
-  
-  - Incident and News Page Section	
-  
-  - Active Alerts	
-  
-  - Login Page	
+  - Dashboard Interface
+     
+    - Alert Form	
+    
+    - Incident and News Page Section	
+    
+    - Active Alerts	
+    
+    - Login Page	
 
 Planned Features	
 
 API Framework	
 
 Data Sources	
+
+  - Weather, Air Quality, Drought, and Fires
 
 Security, Maintenance, Reliability Overview	
   
@@ -55,7 +91,11 @@ Host Server Requirements
 
 Schedule For JOC HING Firewatch Project	
 
-Proposed Budget	
+Proposed Budget
+
+  - Tracking
+  
+  - Hosting  
 
 
 ==============================================================
