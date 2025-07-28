@@ -1,4 +1,6 @@
-![title](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Document%20Title.png)
+![title]()
+<img src="[https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/PATH/TO/IMAGE.png](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Document%20Title.png)" alt="Title" width="600" height="400">
+
 ### July 28, 2015
 
 ==============================================================
