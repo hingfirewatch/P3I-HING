@@ -11,7 +11,7 @@ For the predictability of future events, this project will need access to a serv
 ![Alt text](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/THFIC.png)
 
 ## Website
-[The Hawaii Firce Incidents Center](https://hing-hfic-4dbh7.ondigitalocean.app/dashboard)
+[The Hawaii Firce Incidents Center](https://hifirescenter.org/)
 
 ## **Supporting Documents**
 Project Framework and API Information
