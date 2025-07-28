@@ -216,7 +216,7 @@ Located at the top right of the Live Map View is the map filter section.
 
 ## NASA FIRMs Data Points
 
-![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/FIRMs%20Points.png)
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/FIRMs%20Points%20(close-up).png)
 
 **Alert Form**
 
@@ -230,47 +230,45 @@ Located at the top right of the Live Map View is the map filter section.
 
 ## Map Base Layers
 
-**Incident and News Pages Section**
-
-![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Incident%20and%20News%20Page%20Section.png)
-
-**Figure 8** | The bottom left section showcasing recent incidents from pulled reports.
-
-**Active Alerts**
-
-![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Active%20Alerts.png)
-
-Figure 9 | Right-side alert page listing recently made notifications.
-
-## Map Base Layers
-
 ### Weather
 
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Weather%20Base%20Layer.png)
 
-Figure 9 Default overlay based on Windy.
+**Figure 10** | Default overlay based on Windy.
 
 ### ESRI
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/ESRI.png)
+
+**Figure 11** | Base layer based on ArcGIS.
 
 ### Google Satellite
 
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Google%20Satellite.png)
 
+**Figure 12** | Base layer based on Google Satellite Map view.
+
 ### Google Terrain
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Google%20Terrain.png)
+
+**Figure 13** | Base layer based on Google Terrian Map view.
 
 ### Google Flat Terrain
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Google%20Terrain.png)
 
+**Figure 14** | A flatter view, which does not include terrain shadows from Figure 11.
+
 ### OpenStreetMap
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/OSM.png)
+
+**Figure 15** | Another flat map view based on OpenStreetMap (OSM).
 
 ## Map Alert Filters
 
 Map alert filter for specific statuses based on severity rating, type of fire, and tags based on current alert conditions like fires that are active, being investigated, resolved, or were a false alarm
 
-![]()
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Map%20Alert%20Filters.png)
+<img src="https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Map%20Alert%20Filters.png" alt="" width="600" height="400">
+
 
 Figure 13 |  Another flat map view based on OpenStreetMap (OSM).
 
