@@ -590,7 +590,7 @@ Recommended Requirements:
 /
 
 
-## Lines of Effort
+# Lines of Effort
 * Determine API compatibility
 * Determine Data Sources
 * Access to Data Sources
@@ -669,7 +669,7 @@ Python: BeautifulSoup + requests <br>
 /
 
 
-## Host Server Requirements
+# Host Server Requirements
 ***Component	Specifications***
 ## Server Specifications
 
