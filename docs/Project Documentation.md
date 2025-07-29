@@ -270,7 +270,7 @@ Map alert filter for specific statuses based on severity rating, type of fire, a
 
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/View%20Filters.png)
 
-**Figure 16** | Toggle-able filter menu for map legend (heat map, satellite sources, and fire detection confidence), forecast for selected points, AlertWest panel (landscape fire cameras), and a backup Flight Tracker.
+**Figure 17** | Toggle-able filter menu for map legend (heat map, satellite sources, and fire detection confidence), forecast for selected points, AlertWest panel (landscape fire cameras), and a backup Flight Tracker.
 
 ### Legend
 
