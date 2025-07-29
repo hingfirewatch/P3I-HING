@@ -249,7 +249,7 @@ Located at the top right of the Live Map View is the map filter section.
 **Figure 13** | Base layer based on Google Terrian Map view.
 
 ### Google Flat Terrain
-![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Google%20Terrain.png)
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Google%20Flat%20Terrain.png)
 
 **Figure 14** | A flatter view, which does not include terrain shadows from Figure 11.
 
