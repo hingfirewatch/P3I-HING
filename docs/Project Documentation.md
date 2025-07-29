@@ -25,25 +25,25 @@ Interface Requirements
   
     - Finalized Dashboard
    
-  - Map Interface
+Map Interface
 
-Map Filters
+  - Map Filters
 
-- NASA FIRMS Data Points
-
-- Map Base Layers
+  - NASA FIRMS Data Points
+  
+  - Map Base Layers
    
-  - Weather
-  
-  - ESRI
-  
-  - Google Satellite
-  
-  - Google Terrain
-  
-  - Google Flat Terrain
-       
-  - OpenStreetMap   
+    - Weather
+    
+    - ESRI
+    
+    - Google Satellite
+    
+    - Google Terrain
+    
+    - Google Flat Terrain
+         
+    - OpenStreetMap   
 
   - Map Alert Filters
 
@@ -67,13 +67,47 @@ Dashboard Interface
     
 - Login Page	
 
-Planned Features	
+Planned Features
 
-API Framework	
+- Messaging, Groups, and Resources
+
+- Event/Alert Form Export 
+
+API Framework
+
+- FIRMS API
+
+- Windy API
+
+- ADS-B Excahnge
+
+- NWS API
 
 Data Sources	
 
-  - Weather, Air Quality, Drought, and Fires
+  - Weather and Fire
+
+  - Drought
+
+  - Other
+
+  - Aerial Tracking
+
+  - Scraped Content
+
+    - Oahu
+   
+    - Maui, Lanai, and Kahoolawe
+   
+    - Hawai'i / Big Island
+   
+    - Kauai
+   
+    - Hawaii News Now
+   
+    - KITV - Island News
+   
+    - KHON2
 
 Security, Maintenance, Reliability Overview	
   
