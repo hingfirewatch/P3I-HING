@@ -220,7 +220,7 @@ Located at the top right of the Live Map View is the map filter section.
 
 **Figure 8** | FIRMs API-supplied points.
 
-![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Forecast%20Point.png)
+![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/FIRMs%20Points.png)
 
 **Figure 9** | Detailed overlay of points.
 
