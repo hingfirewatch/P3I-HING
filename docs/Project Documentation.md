@@ -316,15 +316,17 @@ Map alert filter for specific statuses based on severity rating, type of fire, a
 
 **Figure 24** | The bottom left section showcasing recent incidents from pulled reports.
 
-## Login Page**
+## Login Page
 
 Users will require to make an account to access mission essential features like alert notifications.
 
-<img src="https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Login.png" alt="" width="400" />
+<img src="https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Login.png" alt="" width="400"/>
 
 **Figure 25** | Login Portal
 
-**Planned Features**
+# Planned Features
+
+## Messaging, Groups, and Resources
 
 A popup bar for chatting, page for team/group assignment, shared resources, and assigned Microsoft Teams groups.
 
@@ -332,45 +334,47 @@ A popup bar for chatting, page for team/group assignment, shared resources, and 
 
 **Figure 26** | Assignment page for each assigned group following WebEOC format for group folder assignment, includes staff and contact details, a shared resource folder for each assigned group, a description for group mission objective or task, and an assigned Microsoft Teams link. Additionally, a chat pop-up for communications between members and buttons for web pages and organizational resources.
 
+## Event/Alert Form Export
+
 An export function to Alerts Form to allow HING JOC faulty to allow easy input for other third-party forms such as NGP COP, WebEOC, and other forms following the standard operation procedures (SOP).
 
-## Website Framework
+
+/
+
+
+# Website Framework
 
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Website%20Framework.png)
 
-**Figure 12** | The diagram shows the respective programming languages, libraries, and packages that will be required in the front-end and back-end of the project.
+**Figure 27** | The diagram shows the respective programming languages, libraries, and packages that will be required in the front-end and back-end of the project.
 
+# API Framework
 
-/
-
-
-## API Framework
-
-***FIRMS API***
+## FIRMS API
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/FIRMS%20API.png)
 
-**Figure 13** | NASA FIRMS API diagram 
+**Figure 28** | NASA FIRMS API diagram 
 
-***Windy API***
+## Windy API
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Windy%20API.png)
 
-**Figure 14** | Windy API diagram
+**Figure 29** | Windy API diagram
 
-***ADS-B Exchange API***
+## ADS-B Exchange API
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/ADS-B%20Exchange%20API.png)
 
-**Figure 15** | ADS-B Exchange API diagram 
+**Figure 30** | ADS-B Exchange API diagram 
 
-***National Weather Service API***
+## National Weather Service API
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/National%20Weather%20Service%20(NWS).png)
 
-**Figure 16** | NWS API diagram 
+**Figure 31** | NWS API diagram 
 
 
 /
 
 
-## Data Sources
+# Data Sources
 * Fire Guard
 * WebEOC
 * Fire Department (all counties)
@@ -379,6 +383,8 @@ An export function to Alerts Form to allow HING JOC faulty to allow easy input f
 * Flight Trackers
 * Social Media
 * Weather, Air Quality, and Fires
+
+## Weather, Air Quality, Drought, and Fires
   
 AirNow Fire and Smoke Map
 
@@ -401,6 +407,7 @@ Climate TRACE
 *  [Climate Trace](https://climatetrace.org/)
 
 FEMA - national risk indicator
+
 * [FEMA](https://hazards.fema.gov/nri/map)
 
 Windy: Waves
@@ -424,7 +431,7 @@ FlightRadar24
 
 * [FlightRadar24](https://www.flightradar24.com/51.47,0.46/6)
 
-### Drought
+## Drought
 Drought monitor
 *  [Drought Monitor](https://droughtmonitor.unl.edu/)
 
@@ -432,7 +439,7 @@ Drought.gov
 
 *  [Drought](https://www.drought.gov/)
 
-### Other
+## Other
 NOAA	
 *  [Weather Gov](https://www.weather.gov/)
 
@@ -441,44 +448,52 @@ Resourcewatch
 
 OpenData Hawaii Gov
 *  [Opendata](https://opendata.hawaii.gov/)
+
+Hawaii GIS
 *  [Geoportal](https://geoportal.hawaii.gov/)
 
 NASA worldview
 *  [Worldview](https://worldview.earthdata.nasa.gov/?v=-161.58038707413584,16.861705037718462,-153.00129968484953,23.26341001358357&t=2025-06-21-T16%3A40%3A35Z)
 
+Aerial Tracking
+ADS-B
+* [ADS-B](https://www.adsbexchange.com/data/rest-api-samples/)
+Open-Sky
+* [Open-Sky](https://openskynetwork.github.io/opensky-api/)
 
-### Scraped Sources
-Oahu
+## Scraped Sources
+
+### Oahu
 
  * [Fire Department](https://fire.honolulu.gov/)
 
  * [Police Department](https://www.honolulupd.org/)
 
-**Maui, Lanai, and Kahoolawe**
+### Maui, Lanai, and Kahoolawe
 
  * [Fire & Police Department](https://www.mauicounty.gov/)
    
-Hawai'i / Big Island
+### Hawai'i / Big Island
 
  * [Fire Department](https://www.hawaiicounty.gov/departments/fire)
   
  * [Police](https://www.hawaiipolice.gov/)
    
-Kauai
+### Kauai
 
  * [Fire Department](https://www.kauai.gov/Government/Departments-Agencies/Fire-Department)
    
  * [Police Department](https://www.kauai.gov/Government/Departments-Agencies/Police-Department)
 
-Hawaii News Now
+### Hawaii News Now
 
 * [Hawaii News Now](https://www.hawaiinewsnow.com/news/)
 
-KITV - Island News
+### KITV - Island News
 
 * [KITV](https://www.kitv.com/news/)
 
-KHON2
+### KHON2
 
 * [KHON2](https://www.khon2.com/local-news/)
 
@@ -486,6 +501,7 @@ KHON2
 /
 /
 
+# Security, Maintenance, Reliability Overview
 
 ## Security
 Depending on data storage decisions, this project will contain sensitive data or will be used privately for government use, there will be some items that will be considered for this project.
@@ -500,7 +516,7 @@ As with the availability of this project. There could be threats due to DDoS, ma
 
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Mission_Heat%20map.png)
 
-**Figure 17**   CIA Triad - securiy heat map.
+**Figure 32**   CIA Triad - securiy heat map.
 
 ## Maintenance
 This project will require maintenance (at minimal) for API key access upon expiration and due to technical errors such as revoked tokens. In addition to adding new API keys for new API and services added in the future.
@@ -735,6 +751,6 @@ Need: A place to host the web application. Bypass the process and procedures fro
 | Windy          | $2.08          | $24.99         |
 | AeroAPI        | $1,000.00      | $12,000.00     |
 | DigitalOcean   | $24.00         | $288.00        |
-
+| Name.com       | $1.04          | $12.48         |
 
 
