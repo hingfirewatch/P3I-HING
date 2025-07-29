@@ -27,23 +27,23 @@ Interface Requirements
    
   - Map Interface
 
-    - Map Filters
+Map Filters
 
-    - NASA FIRMS Data Points
+- NASA FIRMS Data Points
 
-    - Map Base Layers
+- Map Base Layers
    
-      - Weather
-
-      - ESRI
-
-      - Google Satellite
-
-      - Google Terrain
-
-      - Google Flat Terrain
-     
-      - OpenStreetMap   
+  - Weather
+  
+  - ESRI
+  
+  - Google Satellite
+  
+  - Google Terrain
+  
+  - Google Flat Terrain
+       
+  - OpenStreetMap   
 
   - Map Alert Filters
 
@@ -57,15 +57,15 @@ Interface Requirements
    
     - Flight Tracker
   
-  - Dashboard Interface
+Dashboard Interface
      
-    - Alert Form	
+- Alert Form	
     
-    - Incident and News Page Section	
+- Incident and News Page Section	
     
-    - Active Alerts	
+- Active Alerts	
     
-    - Login Page	
+- Login Page	
 
 Planned Features	
 
