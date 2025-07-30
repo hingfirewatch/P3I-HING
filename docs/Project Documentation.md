@@ -550,7 +550,7 @@ As with the availability of this project. There could be threats due to DDoS, ma
 
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Mission_Heat%20map.png)
 
-**Figure 32**   CIA Triad - securiy heat map.
+**Figure 32** | CIA Triad - securiy heat map.
 
 ## Maintenance
 This project will require maintenance (at minimal) for API key access upon expiration and due to technical errors such as revoked tokens. In addition to adding new API keys for new API and services added in the future.
@@ -628,7 +628,7 @@ Recommended Requirements:
 
 ![](https://github.com/hingfirewatch/P3I-HING/blob/main/docs/pictures/Lines%20of%20Effort.png)
 
-**Figure 15**   Lines of Effort - reference to military approach to milestones.
+**Figure 33** | Lines of Effort - reference to military approach to milestones.
 
 ## Installation Guide
 
